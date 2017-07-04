@@ -1,0 +1,381 @@
+,DAY,DATE,HOME_TEAM,AWAY_TEAM,HOME_GOALS,AWAY_GOALS
+0,1,2010-08-29,Udinese,Genoa,0,1
+1,1,2010-08-29,Sampdoria,Lazio,2,0
+2,1,2010-08-29,Parma,Brescia,2,0
+3,1,2010-08-29,Palermo,Cagliari,0,0
+4,1,2010-08-29,Milan,Lecce,4,0
+5,1,2010-08-29,Fiorentina,Napoli,1,1
+6,1,2010-08-29,Bologna,Inter,0,0
+7,1,2010-08-29,Bari,Juventus,1,0
+8,1,2010-08-29,Roma,Cesena,0,0
+9,1,2010-08-29,Chievo Verona,Catania,2,1
+10,2,2010-09-12,Genoa,Chievo Verona,1,3
+11,2,2010-09-12,Juventus,Sampdoria,3,3
+12,2,2010-09-12,Inter,Udinese,2,1
+13,2,2010-09-12,Brescia,Palermo,3,2
+14,2,2010-09-12,Lazio,Bologna,3,1
+15,2,2010-09-12,Cesena,Milan,2,0
+16,2,2010-09-12,Cagliari,Roma,5,1
+17,2,2010-09-12,Lecce,Fiorentina,1,0
+18,2,2010-09-12,Catania,Parma,2,1
+19,2,2010-09-12,Napoli,Bari,2,2
+20,3,2010-09-19,Chievo Verona,Brescia,0,1
+21,3,2010-09-19,Milan,Catania,1,1
+22,3,2010-09-19,Bari,Cagliari,0,0
+23,3,2010-09-19,Cesena,Lecce,1,0
+24,3,2010-09-19,Fiorentina,Lazio,1,2
+25,3,2010-09-19,Palermo,Inter,1,2
+26,3,2010-09-19,Sampdoria,Napoli,1,2
+27,3,2010-09-19,Parma,Genoa,1,1
+28,3,2010-09-19,Roma,Bologna,2,2
+29,3,2010-09-19,Udinese,Juventus,0,4
+30,4,2010-09-22,Genoa,Fiorentina,1,1
+31,4,2010-09-22,Cagliari,Sampdoria,0,0
+32,4,2010-09-22,Inter,Bari,4,0
+33,4,2010-09-22,Lazio,Milan,1,1
+34,4,2010-09-22,Brescia,Roma,2,1
+35,4,2010-09-22,Napoli,Chievo Verona,1,3
+36,4,2010-09-22,Juventus,Palermo,1,3
+37,4,2010-09-22,Catania,Cesena,2,0
+38,4,2010-09-22,Bologna,Udinese,2,1
+39,4,2010-09-22,Lecce,Parma,1,1
+40,5,2010-09-26,Palermo,Lecce,2,2
+41,5,2010-09-26,Bari,Brescia,2,1
+42,5,2010-09-26,Catania,Bologna,1,1
+43,5,2010-09-26,Cesena,Napoli,1,4
+44,5,2010-09-26,Chievo Verona,Lazio,0,1
+45,5,2010-09-26,Fiorentina,Parma,2,0
+46,5,2010-09-26,Sampdoria,Udinese,0,0
+47,5,2010-09-26,Juventus,Cagliari,4,2
+48,5,2010-09-26,Roma,Inter,1,0
+49,5,2010-09-26,Milan,Genoa,1,0
+50,6,2010-10-03,Genoa,Bari,2,1
+51,6,2010-10-03,Udinese,Cesena,1,0
+52,6,2010-10-03,Parma,Milan,0,1
+53,6,2010-10-03,Bologna,Sampdoria,1,1
+54,6,2010-10-03,Chievo Verona,Cagliari,0,0
+55,6,2010-10-03,Fiorentina,Palermo,1,2
+56,6,2010-10-03,Lazio,Brescia,1,0
+57,6,2010-10-03,Lecce,Catania,1,0
+58,6,2010-10-03,Napoli,Roma,2,0
+59,6,2010-10-03,Inter,Juventus,0,0
+60,7,2010-10-17,Sampdoria,Fiorentina,2,1
+61,7,2010-10-17,Roma,Genoa,2,1
+62,7,2010-10-17,Bari,Lazio,0,2
+63,7,2010-10-17,Palermo,Bologna,4,1
+64,7,2010-10-17,Juventus,Lecce,4,0
+65,7,2010-10-17,Cesena,Parma,1,1
+66,7,2010-10-17,Milan,Chievo Verona,3,1
+67,7,2010-10-17,Cagliari,Inter,0,1
+68,7,2010-10-17,Brescia,Udinese,0,1
+69,7,2010-10-17,Catania,Napoli,1,1
+70,8,2010-10-24,Napoli,Milan,1,2
+71,8,2010-10-24,Inter,Sampdoria,1,1
+72,8,2010-10-24,Parma,Roma,0,0
+73,8,2010-10-24,Udinese,Palermo,2,1
+74,8,2010-10-24,Bologna,Juventus,0,0
+75,8,2010-10-24,Lecce,Brescia,2,1
+76,8,2010-10-24,Chievo Verona,Cesena,2,1
+77,8,2010-10-24,Fiorentina,Bari,2,1
+78,8,2010-10-24,Genoa,Catania,1,0
+79,8,2010-10-24,Lazio,Cagliari,2,1
+80,9,2010-10-31,Parma,Chievo Verona,0,0
+81,9,2010-10-31,Genoa,Inter,0,1
+82,9,2010-10-31,Roma,Lecce,2,0
+83,9,2010-10-31,Milan,Juventus,1,2
+84,9,2010-10-31,Palermo,Lazio,0,1
+85,9,2010-10-31,Bari,Udinese,0,2
+86,9,2010-10-31,Brescia,Napoli,0,1
+87,9,2010-10-31,Cagliari,Bologna,2,0
+88,9,2010-10-31,Cesena,Sampdoria,0,1
+89,9,2010-10-31,Catania,Fiorentina,0,0
+90,10,2010-11-07,Palermo,Genoa,1,0
+91,10,2010-11-07,Napoli,Parma,2,0
+92,10,2010-11-07,Lazio,Roma,0,2
+93,10,2010-11-07,Juventus,Cesena,3,1
+94,10,2010-11-07,Inter,Brescia,1,1
+95,10,2010-11-07,Fiorentina,Chievo Verona,1,0
+96,10,2010-11-07,Bologna,Lecce,2,0
+97,10,2010-11-07,Sampdoria,Catania,0,0
+98,10,2010-11-07,Bari,Milan,2,3
+99,10,2010-11-07,Udinese,Cagliari,1,1
+100,11,2010-11-10,Roma,Fiorentina,3,2
+101,11,2010-11-10,Parma,Sampdoria,1,0
+102,11,2010-11-10,Lecce,Inter,1,1
+103,11,2010-11-10,Chievo Verona,Bari,0,0
+104,11,2010-11-10,Brescia,Juventus,1,1
+105,11,2010-11-10,Cesena,Lazio,1,0
+106,11,2010-11-10,Cagliari,Napoli,0,1
+107,11,2010-11-10,Milan,Palermo,3,1
+108,11,2010-11-10,Catania,Udinese,1,0
+109,11,2010-11-10,Genoa,Bologna,1,0
+110,12,2010-11-14,Inter,Milan,0,1
+111,12,2010-11-14,Juventus,Roma,1,1
+112,12,2010-11-14,Udinese,Lecce,4,0
+113,12,2010-11-14,Sampdoria,Chievo Verona,0,0
+114,12,2010-11-14,Bari,Parma,0,1
+115,12,2010-11-14,Lazio,Napoli,2,0
+116,12,2010-11-14,Palermo,Catania,3,1
+117,12,2010-11-14,Cagliari,Genoa,0,1
+118,12,2010-11-14,Bologna,Brescia,1,0
+119,12,2010-11-14,Fiorentina,Cesena,1,0
+120,13,2010-11-21,Genoa,Juventus,0,2
+121,13,2010-11-21,Catania,Bari,1,0
+122,13,2010-11-21,Cesena,Palermo,1,2
+123,13,2010-11-21,Milan,Fiorentina,1,0
+124,13,2010-11-21,Chievo Verona,Inter,2,1
+125,13,2010-11-21,Lecce,Sampdoria,2,3
+126,13,2010-11-21,Brescia,Cagliari,1,2
+127,13,2010-11-21,Napoli,Bologna,4,1
+128,13,2010-11-21,Parma,Lazio,1,1
+129,13,2010-11-21,Roma,Udinese,2,0
+130,14,2010-11-28,Bari,Cesena,1,1
+131,14,2010-11-28,Udinese,Napoli,3,1
+132,14,2010-11-28,Brescia,Genoa,0,0
+133,14,2010-11-28,Palermo,Roma,3,1
+134,14,2010-11-28,Sampdoria,Milan,1,1
+135,14,2010-11-28,Lazio,Catania,1,1
+136,14,2010-11-28,Inter,Parma,5,2
+137,14,2010-11-28,Cagliari,Lecce,3,2
+138,14,2010-11-28,Bologna,Chievo Verona,2,1
+139,14,2010-11-28,Juventus,Fiorentina,1,1
+140,15,2010-12-05,Napoli,Palermo,1,0
+141,15,2010-12-05,Catania,Juventus,1,3
+142,15,2010-12-05,Chievo Verona,Roma,2,2
+143,15,2010-12-05,Lecce,Genoa,1,3
+144,15,2010-12-05,Milan,Brescia,3,0
+145,15,2010-12-05,Sampdoria,Bari,3,0
+146,15,2010-12-05,Cesena,Bologna,0,2
+147,15,2010-12-05,Fiorentina,Cagliari,1,0
+148,15,2010-12-05,Parma,Udinese,2,1
+149,15,2010-12-05,Lazio,Inter,3,1
+150,16,2010-12-12,Cagliari,Catania,3,0
+151,16,2010-12-12,Udinese,Fiorentina,2,1
+152,16,2010-12-12,Bologna,Milan,0,3
+153,16,2010-12-12,Palermo,Parma,3,1
+154,16,2010-12-12,Brescia,Sampdoria,1,0
+155,16,2010-12-12,Genoa,Napoli,0,1
+156,16,2010-12-12,Lecce,Chievo Verona,3,2
+157,16,2010-12-12,Roma,Bari,1,0
+158,16,2010-12-12,Juventus,Lazio,2,1
+159,16,2010-12-12,Inter,Cesena,3,2
+160,17,2010-12-19,Milan,Roma,0,1
+161,17,2010-12-19,Cesena,Cagliari,1,0
+162,17,2010-12-19,Parma,Bologna,0,0
+163,17,2010-12-19,Sampdoria,Genoa,0,1
+164,17,2010-12-19,Chievo Verona,Juventus,1,1
+165,17,2010-12-19,Catania,Brescia,1,0
+166,17,2010-12-19,Bari,Palermo,1,1
+167,17,2010-12-19,Lazio,Udinese,3,2
+168,17,2010-12-19,Napoli,Lecce,1,0
+169,17,2010-12-19,Fiorentina,Inter,1,2
+170,18,2011-01-06,Palermo,Sampdoria,3,0
+171,18,2011-01-06,Inter,Napoli,3,1
+172,18,2011-01-06,Udinese,Chievo Verona,2,0
+173,18,2011-01-06,Roma,Catania,4,2
+174,18,2011-01-06,Brescia,Cesena,1,2
+175,18,2011-01-06,Genoa,Lazio,0,0
+176,18,2011-01-06,Cagliari,Milan,0,1
+177,18,2011-01-06,Bologna,Fiorentina,1,1
+178,18,2011-01-06,Juventus,Parma,1,4
+179,18,2011-01-06,Lecce,Bari,0,1
+180,19,2011-01-09,Napoli,Juventus,3,0
+181,19,2011-01-09,Bari,Bologna,0,2
+182,19,2011-01-09,Catania,Inter,1,2
+183,19,2011-01-09,Cesena,Genoa,0,0
+184,19,2011-01-09,Chievo Verona,Palermo,0,0
+185,19,2011-01-09,Fiorentina,Brescia,3,2
+186,19,2011-01-09,Sampdoria,Roma,2,1
+187,19,2011-01-09,Lazio,Lecce,1,2
+188,19,2011-01-09,Milan,Udinese,4,4
+189,19,2011-01-09,Parma,Cagliari,1,2
+190,20,2011-01-16,Genoa,Udinese,2,4
+191,20,2011-01-16,Lazio,Sampdoria,1,0
+192,20,2011-01-16,Cesena,Roma,0,1
+193,20,2011-01-16,Cagliari,Palermo,3,1
+194,20,2011-01-16,Juventus,Bari,2,1
+195,20,2011-01-16,Catania,Chievo Verona,1,1
+196,20,2011-01-16,Brescia,Parma,2,0
+197,20,2011-01-16,Napoli,Fiorentina,0,0
+198,20,2011-01-16,Inter,Bologna,4,1
+199,20,2011-01-16,Lecce,Milan,1,1
+200,21,2011-01-23,Fiorentina,Lecce,1,1
+201,21,2011-01-23,Bologna,Lazio,3,1
+202,21,2011-01-23,Chievo Verona,Genoa,0,0
+203,21,2011-01-23,Parma,Catania,2,0
+204,21,2011-01-23,Udinese,Inter,3,1
+205,21,2011-01-23,Palermo,Brescia,1,0
+206,21,2011-01-23,Sampdoria,Juventus,0,0
+207,21,2011-01-23,Bari,Napoli,0,2
+208,21,2011-01-23,Roma,Cagliari,3,0
+209,21,2011-01-23,Milan,Cesena,2,0
+210,22,2011-01-30,Lazio,Fiorentina,2,0
+211,22,2011-01-30,Catania,Milan,0,2
+212,22,2011-01-30,Napoli,Sampdoria,4,0
+213,22,2011-01-30,Cagliari,Bari,2,1
+214,22,2011-01-30,Juventus,Udinese,1,2
+215,22,2011-01-30,Lecce,Cesena,1,1
+216,22,2011-01-30,Bologna,Roma,0,1
+217,22,2011-01-30,Genoa,Parma,3,1
+218,22,2011-01-30,Inter,Palermo,3,2
+219,22,2011-01-30,Brescia,Chievo Verona,0,3
+220,23,2011-02-02,Sampdoria,Cagliari,0,1
+221,23,2011-02-02,Cesena,Catania,1,1
+222,23,2011-02-02,Fiorentina,Genoa,1,0
+223,23,2011-02-02,Roma,Brescia,1,1
+224,23,2011-02-02,Udinese,Bologna,1,1
+225,23,2011-02-02,Chievo Verona,Napoli,2,0
+226,23,2011-02-02,Milan,Lazio,0,0
+227,23,2011-02-02,Parma,Lecce,0,1
+228,23,2011-02-02,Palermo,Juventus,2,1
+229,23,2011-02-02,Bari,Inter,0,3
+230,24,2011-02-06,Cagliari,Juventus,1,3
+231,24,2011-02-06,Udinese,Sampdoria,2,0
+232,24,2011-02-06,Lecce,Palermo,2,4
+233,24,2011-02-06,Parma,Fiorentina,1,1
+234,24,2011-02-06,Lazio,Chievo Verona,1,1
+235,24,2011-02-06,Genoa,Milan,1,1
+236,24,2011-02-06,Napoli,Cesena,2,0
+237,24,2011-02-06,Bologna,Catania,1,0
+238,24,2011-02-06,Brescia,Bari,2,0
+239,24,2011-02-06,Inter,Roma,5,3
+240,25,2011-02-13,Catania,Lecce,3,2
+241,25,2011-02-13,Palermo,Fiorentina,2,4
+242,25,2011-02-13,Cesena,Udinese,0,3
+243,25,2011-02-13,Brescia,Lazio,0,2
+244,25,2011-02-13,Milan,Parma,4,0
+245,25,2011-02-13,Sampdoria,Bologna,3,1
+246,25,2011-02-13,Bari,Genoa,0,0
+247,25,2011-02-13,Cagliari,Chievo Verona,4,1
+248,25,2011-02-13,Juventus,Inter,1,0
+249,25,2011-02-13,Roma,Napoli,0,2
+250,26,2011-02-20,Lazio,Bari,1,0
+251,26,2011-02-20,Inter,Cagliari,1,0
+252,26,2011-02-20,Fiorentina,Sampdoria,0,0
+253,26,2011-02-20,Lecce,Juventus,2,0
+254,26,2011-02-20,Chievo Verona,Milan,1,2
+255,26,2011-02-20,Genoa,Roma,4,3
+256,26,2011-02-20,Parma,Cesena,2,2
+257,26,2011-02-20,Udinese,Brescia,0,0
+258,26,2011-02-20,Bologna,Palermo,1,0
+259,26,2011-02-20,Napoli,Catania,1,0
+260,27,2011-02-27,Catania,Genoa,2,1
+261,27,2011-02-27,Sampdoria,Inter,0,2
+262,27,2011-02-27,Cesena,Chievo Verona,1,0
+263,27,2011-02-27,Palermo,Udinese,0,7
+264,27,2011-02-27,Roma,Parma,2,2
+265,27,2011-02-27,Brescia,Lecce,2,2
+266,27,2011-02-27,Juventus,Bologna,0,2
+267,27,2011-02-27,Cagliari,Lazio,1,0
+268,27,2011-02-27,Bari,Fiorentina,1,1
+269,27,2011-02-27,Milan,Napoli,3,0
+270,28,2011-03-06,Fiorentina,Catania,3,0
+271,28,2011-03-06,Juventus,Milan,0,1
+272,28,2011-03-06,Lazio,Palermo,2,0
+273,28,2011-03-06,Udinese,Bari,1,0
+274,28,2011-03-06,Napoli,Brescia,0,0
+275,28,2011-03-06,Bologna,Cagliari,2,2
+276,28,2011-03-06,Sampdoria,Cesena,2,3
+277,28,2011-03-06,Chievo Verona,Parma,0,0
+278,28,2011-03-06,Inter,Genoa,5,2
+279,28,2011-03-06,Lecce,Roma,1,2
+280,29,2011-03-13,Cesena,Juventus,2,2
+281,29,2011-03-13,Milan,Bari,1,1
+282,29,2011-03-13,Catania,Sampdoria,1,0
+283,29,2011-03-13,Genoa,Palermo,1,0
+284,29,2011-03-13,Parma,Napoli,1,3
+285,29,2011-03-13,Roma,Lazio,2,0
+286,29,2011-03-13,Chievo Verona,Fiorentina,0,1
+287,29,2011-03-13,Cagliari,Udinese,0,4
+288,29,2011-03-13,Brescia,Inter,1,1
+289,29,2011-03-13,Lecce,Bologna,0,1
+290,30,2011-03-20,Palermo,Milan,1,0
+291,30,2011-03-20,Sampdoria,Parma,0,1
+292,30,2011-03-20,Juventus,Brescia,2,1
+293,30,2011-03-20,Fiorentina,Roma,2,2
+294,30,2011-03-20,Inter,Lecce,1,0
+295,30,2011-03-20,Bologna,Genoa,1,1
+296,30,2011-03-20,Napoli,Cagliari,2,1
+297,30,2011-03-20,Udinese,Catania,2,0
+298,30,2011-03-20,Lazio,Cesena,1,0
+299,30,2011-03-20,Bari,Chievo Verona,1,2
+300,31,2011-04-03,Lecce,Udinese,2,0
+301,31,2011-04-03,Roma,Juventus,0,2
+302,31,2011-04-03,Chievo Verona,Sampdoria,0,0
+303,31,2011-04-03,Napoli,Lazio,4,3
+304,31,2011-04-03,Catania,Palermo,4,0
+305,31,2011-04-03,Parma,Bari,1,2
+306,31,2011-04-03,Milan,Inter,3,0
+307,31,2011-04-03,Cesena,Fiorentina,2,2
+308,31,2011-04-03,Brescia,Bologna,3,1
+309,31,2011-04-03,Genoa,Cagliari,0,1
+310,32,2011-04-10,Inter,Chievo Verona,2,0
+311,32,2011-04-10,Bari,Catania,1,1
+312,32,2011-04-10,Cagliari,Brescia,1,1
+313,32,2011-04-10,Sampdoria,Lecce,1,2
+314,32,2011-04-10,Juventus,Genoa,3,2
+315,32,2011-04-10,Lazio,Parma,2,0
+316,32,2011-04-10,Fiorentina,Milan,1,2
+317,32,2011-04-10,Bologna,Napoli,0,2
+318,32,2011-04-10,Udinese,Roma,1,2
+319,32,2011-04-10,Palermo,Cesena,2,2
+320,33,2011-04-17,Roma,Palermo,2,3
+321,33,2011-04-17,Napoli,Udinese,1,2
+322,33,2011-04-17,Catania,Lazio,1,4
+323,33,2011-04-17,Lecce,Cagliari,3,3
+324,33,2011-04-17,Milan,Sampdoria,3,0
+325,33,2011-04-17,Cesena,Bari,1,0
+326,33,2011-04-17,Parma,Inter,2,0
+327,33,2011-04-17,Fiorentina,Juventus,0,0
+328,33,2011-04-17,Genoa,Brescia,3,0
+329,33,2011-04-17,Chievo Verona,Bologna,2,0
+330,34,2011-04-23,Inter,Lazio,2,1
+331,34,2011-04-23,Bologna,Cesena,0,2
+332,34,2011-04-23,Juventus,Catania,2,2
+333,34,2011-04-23,Bari,Sampdoria,0,1
+334,34,2011-04-23,Udinese,Parma,0,2
+335,34,2011-04-23,Genoa,Lecce,4,2
+336,34,2011-04-23,Cagliari,Fiorentina,1,2
+337,34,2011-04-23,Brescia,Milan,0,1
+338,34,2011-04-23,Roma,Chievo Verona,1,0
+339,34,2011-04-23,Palermo,Napoli,2,1
+340,35,2011-05-01,Cesena,Inter,1,2
+341,35,2011-05-01,Lazio,Juventus,0,1
+342,35,2011-05-01,Fiorentina,Udinese,5,2
+343,35,2011-05-01,Bari,Roma,2,3
+344,35,2011-05-01,Parma,Palermo,3,1
+345,35,2011-05-01,Chievo Verona,Lecce,1,0
+346,35,2011-05-01,Catania,Cagliari,2,0
+347,35,2011-05-01,Napoli,Genoa,1,0
+348,35,2011-05-01,Sampdoria,Brescia,3,3
+349,35,2011-05-01,Milan,Bologna,1,0
+350,36,2011-05-08,Palermo,Bari,2,1
+351,36,2011-05-08,Brescia,Catania,1,2
+352,36,2011-05-08,Inter,Fiorentina,3,1
+353,36,2011-05-08,Lecce,Napoli,2,1
+354,36,2011-05-08,Genoa,Sampdoria,2,1
+355,36,2011-05-08,Roma,Milan,0,0
+356,36,2011-05-08,Bologna,Parma,0,0
+357,36,2011-05-08,Cagliari,Cesena,0,2
+358,36,2011-05-08,Udinese,Lazio,2,1
+359,36,2011-05-08,Juventus,Chievo Verona,2,2
+360,37,2011-05-15,Catania,Roma,2,1
+361,37,2011-05-15,Milan,Cagliari,4,1
+362,37,2011-05-15,Chievo Verona,Udinese,0,2
+363,37,2011-05-15,Sampdoria,Palermo,1,2
+364,37,2011-05-15,Parma,Juventus,1,0
+365,37,2011-05-15,Bari,Lecce,0,2
+366,37,2011-05-15,Lazio,Genoa,4,2
+367,37,2011-05-15,Fiorentina,Bologna,1,1
+368,37,2011-05-15,Napoli,Inter,1,1
+369,37,2011-05-15,Cesena,Brescia,1,0
+370,38,2011-05-22,Cagliari,Parma,1,1
+371,38,2011-05-22,Udinese,Milan,0,0
+372,38,2011-05-22,Lecce,Lazio,2,4
+373,38,2011-05-22,Roma,Sampdoria,3,1
+374,38,2011-05-22,Palermo,Chievo Verona,1,3
+375,38,2011-05-22,Genoa,Cesena,3,2
+376,38,2011-05-22,Inter,Catania,3,1
+377,38,2011-05-22,Bologna,Bari,0,4
+378,38,2011-05-22,Brescia,Fiorentina,2,2
+379,38,2011-05-22,Juventus,Napoli,2,2

@@ -1,0 +1,381 @@
+,DAY,DATE,HOME_TEAM,AWAY_TEAM,HOME_GOALS,AWAY_GOALS
+0,1,2016-08-21,Roma,Udinese,4,0
+1,1,2016-08-21,Pescara,Napoli,2,2
+2,1,2016-08-21,Genoa,Cagliari,3,1
+3,1,2016-08-21,Empoli,Sampdoria,0,1
+4,1,2016-08-21,Chievo Verona,Inter,2,0
+5,1,2016-08-21,Bologna,Crotone,1,0
+6,1,2016-08-21,Palermo,Sassuolo,0,1
+7,1,2016-08-21,Milan,Torino,3,2
+8,1,2016-08-21,Juventus,Fiorentina,2,1
+9,1,2016-08-21,Atalanta,Lazio,3,4
+10,2,2016-08-28,Fiorentina,Chievo Verona,1,0
+11,2,2016-08-28,Sampdoria,Atalanta,2,1
+12,2,2016-08-28,Lazio,Juventus,0,1
+13,2,2016-08-28,Cagliari,Roma,2,2
+14,2,2016-08-28,Sassuolo,Pescara,0,3
+15,2,2016-08-28,Inter,Palermo,1,1
+16,2,2016-08-28,Napoli,Milan,4,2
+17,2,2016-08-28,Torino,Bologna,5,1
+18,2,2016-08-28,Crotone,Genoa,1,3
+19,2,2016-08-28,Udinese,Empoli,2,0
+20,3,2016-09-11,Chievo Verona,Lazio,1,1
+21,3,2016-09-11,Palermo,Napoli,0,3
+22,3,2016-09-11,Bologna,Cagliari,2,1
+23,3,2016-09-11,Atalanta,Torino,2,1
+24,3,2016-09-11,Juventus,Sassuolo,3,1
+25,3,2016-09-11,Milan,Udinese,0,1
+26,3,2016-09-11,Genoa,Fiorentina,1,0
+27,3,2016-09-11,Roma,Sampdoria,3,2
+28,3,2016-09-11,Pescara,Inter,1,2
+29,3,2016-09-11,Empoli,Crotone,2,1
+30,4,2016-09-18,Cagliari,Atalanta,3,0
+31,4,2016-09-18,Napoli,Bologna,3,1
+32,4,2016-09-18,Crotone,Palermo,1,1
+33,4,2016-09-18,Sassuolo,Genoa,2,0
+34,4,2016-09-18,Lazio,Pescara,3,0
+35,4,2016-09-18,Inter,Juventus,2,1
+36,4,2016-09-18,Fiorentina,Roma,1,0
+37,4,2016-09-18,Udinese,Chievo Verona,1,2
+38,4,2016-09-18,Sampdoria,Milan,0,1
+39,4,2016-09-18,Torino,Empoli,0,0
+40,5,2016-09-21,Pescara,Torino,0,0
+41,5,2016-09-21,Atalanta,Palermo,0,1
+42,5,2016-09-21,Chievo Verona,Sassuolo,2,1
+43,5,2016-09-21,Empoli,Inter,0,2
+44,5,2016-09-21,Genoa,Napoli,0,0
+45,5,2016-09-21,Juventus,Cagliari,4,0
+46,5,2016-09-21,Roma,Crotone,4,0
+47,5,2016-09-21,Udinese,Fiorentina,2,2
+48,5,2016-09-21,Bologna,Sampdoria,2,0
+49,5,2016-09-21,Milan,Lazio,2,0
+50,6,2016-09-25,Lazio,Empoli,2,0
+51,6,2016-09-25,Palermo,Juventus,0,1
+52,6,2016-09-25,Napoli,Chievo Verona,2,0
+53,6,2016-09-25,Torino,Roma,3,1
+54,6,2016-09-25,Genoa,Pescara,1,1
+55,6,2016-09-25,Inter,Bologna,1,1
+56,6,2016-09-25,Sassuolo,Udinese,1,0
+57,6,2016-09-25,Fiorentina,Milan,0,0
+58,6,2016-09-25,Crotone,Atalanta,1,3
+59,6,2016-09-25,Cagliari,Sampdoria,2,1
+60,7,2016-10-02,Torino,Fiorentina,2,1
+61,7,2016-10-02,Udinese,Lazio,0,3
+62,7,2016-10-02,Roma,Inter,2,1
+63,7,2016-10-02,Milan,Sassuolo,4,3
+64,7,2016-10-02,Sampdoria,Palermo,1,1
+65,7,2016-10-02,Cagliari,Crotone,2,1
+66,7,2016-10-02,Pescara,Chievo Verona,0,2
+67,7,2016-10-02,Atalanta,Napoli,1,0
+68,7,2016-10-02,Empoli,Juventus,0,3
+69,7,2016-10-02,Bologna,Genoa,0,1
+70,8,2016-10-16,Palermo,Torino,1,4
+71,8,2016-10-16,Chievo Verona,Milan,1,3
+72,8,2016-10-16,Pescara,Sampdoria,1,1
+73,8,2016-10-16,Sassuolo,Crotone,2,1
+74,8,2016-10-16,Juventus,Udinese,2,1
+75,8,2016-10-16,Lazio,Bologna,1,1
+76,8,2016-10-16,Fiorentina,Atalanta,0,0
+77,8,2016-10-16,Napoli,Roma,1,3
+78,8,2016-10-16,Genoa,Empoli,0,0
+79,8,2016-10-16,Inter,Cagliari,1,2
+80,9,2016-10-23,Bologna,Sassuolo,1,1
+81,9,2016-10-23,Sampdoria,Genoa,2,1
+82,9,2016-10-23,Milan,Juventus,1,0
+83,9,2016-10-23,Udinese,Pescara,3,1
+84,9,2016-10-23,Atalanta,Inter,2,1
+85,9,2016-10-23,Cagliari,Fiorentina,3,5
+86,9,2016-10-23,Crotone,Napoli,1,2
+87,9,2016-10-23,Empoli,Chievo Verona,0,0
+88,9,2016-10-23,Torino,Lazio,2,2
+89,9,2016-10-23,Roma,Palermo,4,1
+90,10,2016-10-26,Palermo,Udinese,1,3
+91,10,2016-10-26,Napoli,Empoli,2,0
+92,10,2016-10-26,Lazio,Cagliari,4,1
+93,10,2016-10-26,Juventus,Sampdoria,4,1
+94,10,2016-10-26,Chievo Verona,Bologna,1,1
+95,10,2016-10-26,Fiorentina,Crotone,1,1
+96,10,2016-10-26,Genoa,Milan,3,0
+97,10,2016-10-26,Pescara,Atalanta,0,1
+98,10,2016-10-26,Inter,Torino,2,1
+99,10,2016-10-26,Sassuolo,Roma,1,3
+100,11,2016-10-30,Udinese,Torino,2,2
+101,11,2016-10-30,Cagliari,Palermo,2,1
+102,11,2016-10-30,Milan,Pescara,1,0
+103,11,2016-10-30,Empoli,Roma,0,0
+104,11,2016-10-30,Bologna,Fiorentina,0,1
+105,11,2016-10-30,Crotone,Chievo Verona,2,0
+106,11,2016-10-30,Juventus,Napoli,2,1
+107,11,2016-10-30,Sampdoria,Inter,1,0
+108,11,2016-10-30,Atalanta,Genoa,3,0
+109,11,2016-10-30,Lazio,Sassuolo,2,1
+110,12,2016-11-06,Roma,Bologna,3,0
+111,12,2016-11-06,Napoli,Lazio,1,1
+112,12,2016-11-06,Inter,Crotone,3,0
+113,12,2016-11-06,Fiorentina,Sampdoria,1,1
+114,12,2016-11-06,Chievo Verona,Juventus,1,2
+115,12,2016-11-06,Pescara,Empoli,0,4
+116,12,2016-11-06,Sassuolo,Atalanta,0,3
+117,12,2016-11-06,Palermo,Milan,1,2
+118,12,2016-11-06,Genoa,Udinese,1,1
+119,12,2016-11-06,Torino,Cagliari,5,1
+120,13,2016-11-20,Juventus,Pescara,3,0
+121,13,2016-11-20,Atalanta,Roma,2,1
+122,13,2016-11-20,Bologna,Palermo,3,1
+123,13,2016-11-20,Udinese,Napoli,1,2
+124,13,2016-11-20,Crotone,Torino,0,2
+125,13,2016-11-20,Empoli,Fiorentina,0,4
+126,13,2016-11-20,Sampdoria,Sassuolo,3,2
+127,13,2016-11-20,Milan,Inter,2,2
+128,13,2016-11-20,Lazio,Genoa,3,1
+129,13,2016-11-20,Chievo Verona,Cagliari,1,0
+130,14,2016-11-27,Bologna,Atalanta,0,2
+131,14,2016-11-27,Roma,Pescara,3,2
+132,14,2016-11-27,Cagliari,Udinese,2,1
+133,14,2016-11-27,Napoli,Sassuolo,1,1
+134,14,2016-11-27,Torino,Chievo Verona,2,1
+135,14,2016-11-27,Genoa,Juventus,3,1
+136,14,2016-11-27,Palermo,Lazio,0,1
+137,14,2016-11-27,Crotone,Sampdoria,1,1
+138,14,2016-11-27,Inter,Fiorentina,4,2
+139,14,2016-11-27,Empoli,Milan,1,4
+140,15,2016-12-04,Udinese,Bologna,1,0
+141,15,2016-12-04,Chievo Verona,Genoa,0,0
+142,15,2016-12-04,Juventus,Atalanta,3,1
+143,15,2016-12-04,Sampdoria,Torino,2,0
+144,15,2016-12-04,Milan,Crotone,2,1
+145,15,2016-12-04,Fiorentina,Palermo,2,1
+146,15,2016-12-04,Lazio,Roma,0,2
+147,15,2016-12-04,Pescara,Cagliari,1,1
+148,15,2016-12-04,Sassuolo,Empoli,3,0
+149,15,2016-12-04,Napoli,Inter,3,0
+150,16,2016-12-11,Palermo,Chievo Verona,0,2
+151,16,2016-12-11,Sampdoria,Lazio,1,2
+152,16,2016-12-11,Atalanta,Udinese,1,3
+153,16,2016-12-11,Crotone,Pescara,2,1
+154,16,2016-12-11,Bologna,Empoli,0,0
+155,16,2016-12-11,Cagliari,Napoli,0,5
+156,16,2016-12-11,Torino,Juventus,1,3
+157,16,2016-12-11,Inter,Genoa,2,0
+158,16,2016-12-11,Fiorentina,Sassuolo,2,1
+159,16,2016-12-11,Roma,Milan,1,0
+160,17,2016-12-18,Milan,Atalanta,0,0
+161,17,2016-12-18,Empoli,Cagliari,2,0
+162,17,2016-12-18,Genoa,Palermo,3,4
+163,17,2016-12-18,Lazio,Fiorentina,3,1
+164,17,2016-12-18,Napoli,Torino,5,3
+165,17,2016-12-18,Chievo Verona,Sampdoria,2,1
+166,17,2016-12-18,Sassuolo,Inter,0,1
+167,17,2016-12-18,Juventus,Roma,1,0
+168,17,2016-12-18,Udinese,Crotone,2,0
+169,17,2016-12-18,Pescara,Bologna,0,3
+170,18,2016-12-22,Sampdoria,Udinese,0,0
+171,18,2016-12-22,Bologna,Milan,0,1
+172,18,2016-12-22,Crotone,Juventus,0,2
+173,18,2016-12-22,Torino,Genoa,1,0
+174,18,2016-12-22,Cagliari,Sassuolo,4,3
+175,18,2016-12-22,Palermo,Pescara,1,1
+176,18,2016-12-22,Fiorentina,Napoli,3,3
+177,18,2016-12-22,Inter,Lazio,3,0
+178,18,2016-12-22,Atalanta,Empoli,2,1
+179,18,2016-12-22,Roma,Chievo Verona,3,1
+180,19,2017-01-08,Pescara,Fiorentina,1,2
+181,19,2017-01-08,Napoli,Sampdoria,2,1
+182,19,2017-01-08,Udinese,Inter,1,2
+183,19,2017-01-08,Chievo Verona,Atalanta,1,4
+184,19,2017-01-08,Genoa,Roma,0,1
+185,19,2017-01-08,Lazio,Crotone,1,0
+186,19,2017-01-08,Empoli,Palermo,1,0
+187,19,2017-01-08,Sassuolo,Torino,0,0
+188,19,2017-01-08,Milan,Cagliari,1,0
+189,19,2017-01-08,Juventus,Bologna,3,0
+190,20,2017-01-15,Udinese,Roma,0,1
+191,20,2017-01-15,Napoli,Pescara,3,1
+192,20,2017-01-15,Fiorentina,Juventus,2,1
+193,20,2017-01-15,Sampdoria,Empoli,0,0
+194,20,2017-01-15,Torino,Milan,2,2
+195,20,2017-01-15,Lazio,Atalanta,2,1
+196,20,2017-01-15,Cagliari,Genoa,4,1
+197,20,2017-01-15,Crotone,Bologna,0,1
+198,20,2017-01-15,Sassuolo,Palermo,4,1
+199,20,2017-01-15,Inter,Chievo Verona,3,1
+200,21,2017-01-22,Bologna,Torino,2,0
+201,21,2017-01-22,Pescara,Sassuolo,1,3
+202,21,2017-01-22,Chievo Verona,Fiorentina,0,3
+203,21,2017-01-22,Genoa,Crotone,2,2
+204,21,2017-01-22,Juventus,Lazio,2,0
+205,21,2017-01-22,Roma,Cagliari,1,0
+206,21,2017-01-22,Atalanta,Sampdoria,1,0
+207,21,2017-01-22,Empoli,Udinese,1,0
+208,21,2017-01-22,Milan,Napoli,1,2
+209,21,2017-01-22,Palermo,Inter,0,1
+210,22,2017-01-29,Sassuolo,Juventus,0,2
+211,22,2017-01-29,Napoli,Palermo,1,1
+212,22,2017-01-29,Fiorentina,Genoa,3,3
+213,22,2017-01-29,Cagliari,Bologna,1,1
+214,22,2017-01-29,Crotone,Empoli,4,1
+215,22,2017-01-29,Torino,Atalanta,1,1
+216,22,2017-01-29,Inter,Pescara,3,0
+217,22,2017-01-29,Sampdoria,Roma,3,2
+218,22,2017-01-29,Udinese,Milan,2,1
+219,22,2017-01-29,Lazio,Chievo Verona,0,1
+220,23,2017-02-05,Bologna,Napoli,1,7
+221,23,2017-02-05,Chievo Verona,Udinese,0,0
+222,23,2017-02-05,Atalanta,Cagliari,2,0
+223,23,2017-02-05,Pescara,Lazio,2,6
+224,23,2017-02-05,Milan,Sampdoria,0,1
+225,23,2017-02-05,Juventus,Inter,1,0
+226,23,2017-02-05,Genoa,Sassuolo,0,1
+227,23,2017-02-05,Empoli,Torino,1,1
+228,23,2017-02-05,Roma,Fiorentina,4,0
+229,23,2017-02-05,Palermo,Crotone,1,0
+230,24,2017-02-12,Fiorentina,Udinese,3,0
+231,24,2017-02-12,Crotone,Roma,0,2
+232,24,2017-02-12,Torino,Pescara,5,3
+233,24,2017-02-12,Cagliari,Juventus,0,2
+234,24,2017-02-12,Napoli,Genoa,2,0
+235,24,2017-02-12,Lazio,Milan,1,1
+236,24,2017-02-12,Inter,Empoli,2,0
+237,24,2017-02-12,Sassuolo,Chievo Verona,1,3
+238,24,2017-02-12,Palermo,Atalanta,1,3
+239,24,2017-02-12,Sampdoria,Bologna,3,1
+240,25,2017-02-19,Milan,Fiorentina,2,1
+241,25,2017-02-19,Bologna,Inter,0,1
+242,25,2017-02-19,Juventus,Palermo,4,1
+243,25,2017-02-19,Udinese,Sassuolo,1,2
+244,25,2017-02-19,Chievo Verona,Napoli,1,3
+245,25,2017-02-19,Roma,Torino,4,1
+246,25,2017-02-19,Empoli,Lazio,1,2
+247,25,2017-02-19,Pescara,Genoa,5,0
+248,25,2017-02-19,Sampdoria,Cagliari,1,1
+249,25,2017-02-19,Atalanta,Crotone,1,0
+250,26,2017-02-26,Inter,Roma,1,3
+251,26,2017-02-26,Napoli,Atalanta,0,2
+252,26,2017-02-26,Fiorentina,Torino,2,2
+253,26,2017-02-26,Palermo,Sampdoria,1,1
+254,26,2017-02-26,Chievo Verona,Pescara,2,0
+255,26,2017-02-26,Lazio,Udinese,1,0
+256,26,2017-02-26,Crotone,Cagliari,1,2
+257,26,2017-02-26,Juventus,Empoli,2,0
+258,26,2017-02-26,Sassuolo,Milan,0,1
+259,26,2017-02-26,Genoa,Bologna,1,1
+260,27,2017-03-05,Empoli,Genoa,0,2
+261,27,2017-03-05,Milan,Chievo Verona,3,1
+262,27,2017-03-05,Atalanta,Fiorentina,0,0
+263,27,2017-03-05,Crotone,Sassuolo,0,0
+264,27,2017-03-05,Sampdoria,Pescara,3,1
+265,27,2017-03-05,Bologna,Lazio,0,2
+266,27,2017-03-05,Udinese,Juventus,1,1
+267,27,2017-03-05,Cagliari,Inter,1,5
+268,27,2017-03-05,Roma,Napoli,1,2
+269,27,2017-03-05,Torino,Palermo,3,1
+270,28,2017-03-12,Palermo,Roma,0,3
+271,28,2017-03-12,Pescara,Udinese,1,3
+272,28,2017-03-12,Inter,Atalanta,7,1
+273,28,2017-03-12,Fiorentina,Cagliari,1,0
+274,28,2017-03-12,Napoli,Crotone,3,0
+275,28,2017-03-12,Chievo Verona,Empoli,4,0
+276,28,2017-03-12,Lazio,Torino,3,1
+277,28,2017-03-12,Sassuolo,Bologna,0,1
+278,28,2017-03-12,Genoa,Sampdoria,0,1
+279,28,2017-03-12,Juventus,Milan,2,1
+280,29,2017-03-19,Sampdoria,Juventus,0,1
+281,29,2017-03-19,Torino,Inter,2,2
+282,29,2017-03-19,Atalanta,Pescara,3,0
+283,29,2017-03-19,Udinese,Palermo,4,1
+284,29,2017-03-19,Empoli,Napoli,2,3
+285,29,2017-03-19,Cagliari,Lazio,0,0
+286,29,2017-03-19,Crotone,Fiorentina,0,1
+287,29,2017-03-19,Roma,Sassuolo,3,1
+288,29,2017-03-19,Bologna,Chievo Verona,4,1
+289,29,2017-03-19,Milan,Genoa,1,0
+290,30,2017-04-02,Inter,Sampdoria,1,2
+291,30,2017-04-02,Palermo,Cagliari,1,3
+292,30,2017-04-02,Fiorentina,Bologna,1,0
+293,30,2017-04-02,Torino,Udinese,2,2
+294,30,2017-04-02,Pescara,Milan,1,1
+295,30,2017-04-02,Sassuolo,Lazio,1,2
+296,30,2017-04-02,Napoli,Juventus,1,1
+297,30,2017-04-02,Genoa,Atalanta,0,5
+298,30,2017-04-02,Chievo Verona,Crotone,1,2
+299,30,2017-04-02,Roma,Empoli,2,0
+300,31,2017-04-09,Crotone,Inter,2,1
+301,31,2017-04-09,Lazio,Napoli,0,3
+302,31,2017-04-09,Sampdoria,Fiorentina,2,2
+303,31,2017-04-09,Empoli,Pescara,1,1
+304,31,2017-04-09,Atalanta,Sassuolo,1,1
+305,31,2017-04-09,Juventus,Chievo Verona,2,0
+306,31,2017-04-09,Bologna,Roma,0,3
+307,31,2017-04-09,Cagliari,Torino,2,3
+308,31,2017-04-09,Udinese,Genoa,3,0
+309,31,2017-04-09,Milan,Palermo,4,0
+310,32,2017-04-15,Torino,Crotone,1,1
+311,32,2017-04-15,Roma,Atalanta,1,1
+312,32,2017-04-15,Sassuolo,Sampdoria,2,1
+313,32,2017-04-15,Fiorentina,Empoli,1,2
+314,32,2017-04-15,Pescara,Juventus,0,2
+315,32,2017-04-15,Genoa,Lazio,2,2
+316,32,2017-04-15,Napoli,Udinese,3,0
+317,32,2017-04-15,Inter,Milan,2,2
+318,32,2017-04-15,Cagliari,Chievo Verona,4,0
+319,32,2017-04-15,Palermo,Bologna,0,0
+320,33,2017-04-23,Sassuolo,Napoli,2,2
+321,33,2017-04-23,Pescara,Roma,1,4
+322,33,2017-04-23,Juventus,Genoa,4,0
+323,33,2017-04-23,Sampdoria,Crotone,1,2
+324,33,2017-04-23,Chievo Verona,Torino,1,3
+325,33,2017-04-23,Atalanta,Bologna,3,2
+326,33,2017-04-23,Lazio,Palermo,6,2
+327,33,2017-04-23,Milan,Empoli,1,2
+328,33,2017-04-23,Udinese,Cagliari,2,1
+329,33,2017-04-23,Fiorentina,Inter,5,4
+330,34,2017-04-30,Inter,Napoli,0,1
+331,34,2017-04-30,Roma,Lazio,1,3
+332,34,2017-04-30,Genoa,Chievo Verona,1,2
+333,34,2017-04-30,Palermo,Fiorentina,2,0
+334,34,2017-04-30,Empoli,Sassuolo,1,3
+335,34,2017-04-30,Torino,Sampdoria,1,1
+336,34,2017-04-30,Cagliari,Pescara,1,0
+337,34,2017-04-30,Crotone,Milan,1,1
+338,34,2017-04-30,Atalanta,Juventus,2,2
+339,34,2017-04-30,Bologna,Udinese,4,0
+340,35,2017-05-07,Milan,Roma,1,4
+341,35,2017-05-07,Sassuolo,Fiorentina,2,2
+342,35,2017-05-07,Lazio,Sampdoria,7,3
+343,35,2017-05-07,Genoa,Inter,1,0
+344,35,2017-05-07,Pescara,Crotone,0,1
+345,35,2017-05-07,Juventus,Torino,1,1
+346,35,2017-05-07,Chievo Verona,Palermo,1,1
+347,35,2017-05-07,Napoli,Cagliari,3,1
+348,35,2017-05-07,Empoli,Bologna,3,1
+349,35,2017-05-07,Udinese,Atalanta,1,1
+350,36,2017-05-14,Inter,Sassuolo,1,2
+351,36,2017-05-14,Sampdoria,Chievo Verona,1,1
+352,36,2017-05-14,Bologna,Pescara,3,1
+353,36,2017-05-14,Crotone,Udinese,1,0
+354,36,2017-05-14,Fiorentina,Lazio,3,2
+355,36,2017-05-14,Atalanta,Milan,1,1
+356,36,2017-05-14,Palermo,Genoa,1,0
+357,36,2017-05-14,Cagliari,Empoli,3,2
+358,36,2017-05-14,Roma,Juventus,3,1
+359,36,2017-05-14,Torino,Napoli,0,5
+360,37,2017-05-21,Genoa,Torino,2,1
+361,37,2017-05-21,Napoli,Fiorentina,4,1
+362,37,2017-05-21,Juventus,Crotone,3,0
+363,37,2017-05-21,Udinese,Sampdoria,1,1
+364,37,2017-05-21,Empoli,Atalanta,0,1
+365,37,2017-05-21,Chievo Verona,Roma,3,5
+366,37,2017-05-21,Pescara,Palermo,2,0
+367,37,2017-05-21,Lazio,Inter,1,3
+368,37,2017-05-21,Milan,Bologna,3,0
+369,37,2017-05-21,Sassuolo,Cagliari,6,2
+370,38,2017-05-28,Bologna,Juventus,1,2
+371,38,2017-05-28,Cagliari,Milan,2,1
+372,38,2017-05-28,Torino,Sassuolo,5,3
+373,38,2017-05-28,Palermo,Empoli,2,1
+374,38,2017-05-28,Roma,Genoa,3,2
+375,38,2017-05-28,Atalanta,Chievo Verona,1,0
+376,38,2017-05-28,Inter,Udinese,5,2
+377,38,2017-05-28,Sampdoria,Napoli,2,4
+378,38,2017-05-28,Crotone,Lazio,3,1
+379,38,2017-05-28,Fiorentina,Pescara,2,2

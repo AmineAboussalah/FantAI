@@ -1,0 +1,381 @@
+,DAY,DATE,HOME_TEAM,AWAY_TEAM,HOME_GOALS,AWAY_GOALS
+0,1,2008-08-31,Udinese,Palermo,3,1
+1,1,2008-08-31,Roma,Napoli,1,1
+2,1,2008-08-31,Milan,Bologna,1,2
+3,1,2008-08-31,Fiorentina,Juventus,1,1
+4,1,2008-08-31,Chievo Verona,Reggina,2,1
+5,1,2008-08-31,Catania,Genoa,1,0
+6,1,2008-08-31,Torino,Lecce,3,0
+7,1,2008-08-31,Atalanta,Siena,1,0
+8,1,2008-08-31,Sampdoria,Inter,1,1
+9,1,2008-08-31,Cagliari,Lazio,1,4
+10,2,2008-09-14,Lecce,Chievo Verona,2,0
+11,2,2008-09-14,Napoli,Fiorentina,2,1
+12,2,2008-09-14,Palermo,Roma,3,1
+13,2,2008-09-14,Genoa,Milan,2,0
+14,2,2008-09-14,Reggina,Torino,1,1
+15,2,2008-09-14,Bologna,Atalanta,0,1
+16,2,2008-09-14,Inter,Catania,2,1
+17,2,2008-09-14,Siena,Cagliari,2,0
+18,2,2008-09-14,Lazio,Sampdoria,2,0
+19,2,2008-09-14,Juventus,Udinese,1,0
+20,3,2008-09-21,Lecce,Siena,1,1
+21,3,2008-09-21,Roma,Reggina,3,0
+22,3,2008-09-21,Cagliari,Juventus,0,1
+23,3,2008-09-21,Fiorentina,Bologna,1,0
+24,3,2008-09-21,Catania,Atalanta,1,0
+25,3,2008-09-21,Palermo,Genoa,2,1
+26,3,2008-09-21,Milan,Lazio,4,1
+27,3,2008-09-21,Sampdoria,Chievo Verona,1,1
+28,3,2008-09-21,Torino,Inter,1,3
+29,3,2008-09-21,Udinese,Napoli,0,0
+30,4,2008-09-24,Inter,Lecce,1,0
+31,4,2008-09-24,Chievo Verona,Torino,1,1
+32,4,2008-09-24,Juventus,Catania,1,1
+33,4,2008-09-24,Lazio,Fiorentina,3,0
+34,4,2008-09-24,Bologna,Udinese,0,3
+35,4,2008-09-24,Reggina,Milan,1,2
+36,4,2008-09-24,Siena,Sampdoria,0,0
+37,4,2008-09-24,Genoa,Roma,3,1
+38,4,2008-09-24,Atalanta,Cagliari,1,0
+39,4,2008-09-24,Napoli,Palermo,2,1
+40,5,2008-09-28,Torino,Lazio,1,3
+41,5,2008-09-28,Bologna,Napoli,0,1
+42,5,2008-09-28,Catania,Chievo Verona,1,0
+43,5,2008-09-28,Lecce,Cagliari,2,0
+44,5,2008-09-28,Palermo,Reggina,1,0
+45,5,2008-09-28,Roma,Atalanta,2,0
+46,5,2008-09-28,Udinese,Siena,2,1
+47,5,2008-09-28,Milan,Inter,1,0
+48,5,2008-09-28,Fiorentina,Genoa,1,0
+49,5,2008-09-28,Sampdoria,Juventus,0,0
+50,6,2008-10-05,Juventus,Palermo,1,2
+51,6,2008-10-05,Lazio,Lecce,1,1
+52,6,2008-10-05,Inter,Bologna,2,1
+53,6,2008-10-05,Atalanta,Sampdoria,4,2
+54,6,2008-10-05,Chievo Verona,Fiorentina,0,2
+55,6,2008-10-05,Genoa,Napoli,3,2
+56,6,2008-10-05,Reggina,Catania,1,1
+57,6,2008-10-05,Siena,Roma,1,0
+58,6,2008-10-05,Udinese,Torino,2,0
+59,6,2008-10-05,Cagliari,Milan,0,0
+60,7,2008-10-19,Torino,Cagliari,0,1
+61,7,2008-10-19,Napoli,Juventus,2,1
+62,7,2008-10-19,Roma,Inter,0,4
+63,7,2008-10-19,Milan,Sampdoria,3,0
+64,7,2008-10-19,Lecce,Udinese,2,2
+65,7,2008-10-19,Genoa,Siena,1,0
+66,7,2008-10-19,Fiorentina,Reggina,3,0
+67,7,2008-10-19,Catania,Palermo,2,0
+68,7,2008-10-19,Bologna,Lazio,3,1
+69,7,2008-10-19,Chievo Verona,Atalanta,1,1
+70,8,2008-10-26,Palermo,Fiorentina,1,3
+71,8,2008-10-26,Udinese,Roma,3,1
+72,8,2008-10-26,Juventus,Torino,1,0
+73,8,2008-10-26,Sampdoria,Bologna,2,0
+74,8,2008-10-26,Atalanta,Milan,0,1
+75,8,2008-10-26,Reggina,Lecce,2,0
+76,8,2008-10-26,Cagliari,Chievo Verona,2,0
+77,8,2008-10-26,Siena,Catania,1,1
+78,8,2008-10-26,Inter,Genoa,0,0
+79,8,2008-10-26,Lazio,Napoli,0,1
+80,9,2008-10-29,Roma,Sampdoria,2,0
+81,9,2008-10-29,Bologna,Juventus,1,2
+82,9,2008-10-29,Catania,Udinese,0,2
+83,9,2008-10-29,Chievo Verona,Lazio,1,2
+84,9,2008-10-29,Fiorentina,Inter,0,0
+85,9,2008-10-29,Genoa,Cagliari,2,1
+86,9,2008-10-29,Lecce,Palermo,1,1
+87,9,2008-10-29,Milan,Siena,2,1
+88,9,2008-10-29,Napoli,Reggina,3,0
+89,9,2008-10-29,Torino,Atalanta,2,1
+90,10,2008-11-02,Milan,Napoli,1,0
+91,10,2008-11-02,Siena,Fiorentina,1,0
+92,10,2008-11-02,Palermo,Chievo Verona,3,0
+93,10,2008-11-02,Lazio,Catania,1,0
+94,10,2008-11-02,Reggina,Inter,2,3
+95,10,2008-11-02,Atalanta,Lecce,0,0
+96,10,2008-11-02,Juventus,Roma,2,0
+97,10,2008-11-02,Sampdoria,Torino,1,0
+98,10,2008-11-02,Cagliari,Bologna,5,1
+99,10,2008-11-02,Udinese,Genoa,2,2
+100,11,2008-11-09,Napoli,Sampdoria,2,0
+101,11,2008-11-09,Lecce,Milan,1,1
+102,11,2008-11-09,Inter,Udinese,1,0
+103,11,2008-11-09,Fiorentina,Atalanta,2,1
+104,11,2008-11-09,Torino,Palermo,1,0
+105,11,2008-11-09,Chievo Verona,Juventus,0,2
+106,11,2008-11-09,Bologna,Roma,1,1
+107,11,2008-11-09,Lazio,Siena,3,0
+108,11,2008-11-09,Catania,Cagliari,2,1
+109,11,2008-11-09,Genoa,Reggina,4,0
+110,12,2008-11-16,Roma,Lazio,1,0
+111,12,2008-11-16,Palermo,Inter,0,2
+112,12,2008-11-16,Udinese,Reggina,0,1
+113,12,2008-11-16,Sampdoria,Lecce,3,2
+114,12,2008-11-16,Cagliari,Fiorentina,1,0
+115,12,2008-11-16,Atalanta,Napoli,3,1
+116,12,2008-11-16,Siena,Bologna,1,1
+117,12,2008-11-16,Milan,Chievo Verona,1,0
+118,12,2008-11-16,Catania,Torino,3,2
+119,12,2008-11-16,Juventus,Genoa,4,1
+120,13,2008-11-23,Bologna,Palermo,1,1
+121,13,2008-11-23,Lazio,Genoa,1,1
+122,13,2008-11-23,Lecce,Roma,0,3
+123,13,2008-11-23,Inter,Juventus,1,0
+124,13,2008-11-23,Napoli,Cagliari,2,2
+125,13,2008-11-23,Reggina,Atalanta,3,1
+126,13,2008-11-23,Chievo Verona,Siena,0,2
+127,13,2008-11-23,Torino,Milan,2,2
+128,13,2008-11-23,Sampdoria,Catania,3,0
+129,13,2008-11-23,Fiorentina,Udinese,4,2
+130,14,2008-11-30,Cagliari,Sampdoria,1,0
+131,14,2008-11-30,Roma,Fiorentina,1,0
+132,14,2008-11-30,Genoa,Bologna,1,1
+133,14,2008-11-30,Udinese,Chievo Verona,0,1
+134,14,2008-11-30,Catania,Lecce,1,1
+135,14,2008-11-30,Siena,Torino,1,0
+136,14,2008-11-30,Atalanta,Lazio,2,0
+137,14,2008-11-30,Inter,Napoli,2,1
+138,14,2008-11-30,Palermo,Milan,3,1
+139,14,2008-11-30,Juventus,Reggina,4,0
+140,15,2008-12-07,Sampdoria,Genoa,0,1
+141,15,2008-12-07,Torino,Fiorentina,1,4
+142,15,2008-12-07,Lazio,Inter,0,3
+143,15,2008-12-07,Milan,Catania,1,0
+144,15,2008-12-07,Atalanta,Udinese,3,0
+145,15,2008-12-07,Reggina,Bologna,2,2
+146,15,2008-12-07,Cagliari,Palermo,1,0
+147,15,2008-12-07,Lecce,Juventus,1,2
+148,15,2008-12-07,Napoli,Siena,2,0
+149,15,2008-12-07,Chievo Verona,Roma,0,1
+150,16,2008-12-14,Palermo,Siena,2,0
+151,16,2008-12-14,Napoli,Lecce,3,0
+152,16,2008-12-14,Genoa,Atalanta,1,1
+153,16,2008-12-14,Bologna,Torino,5,2
+154,16,2008-12-14,Inter,Chievo Verona,4,2
+155,16,2008-12-14,Fiorentina,Catania,2,0
+156,16,2008-12-14,Reggina,Sampdoria,0,2
+157,16,2008-12-14,Roma,Cagliari,3,2
+158,16,2008-12-14,Udinese,Lazio,3,3
+159,16,2008-12-14,Juventus,Milan,4,2
+160,17,2008-12-21,Siena,Inter,1,2
+161,17,2008-12-21,Lazio,Palermo,1,0
+162,17,2008-12-21,Torino,Napoli,1,0
+163,17,2008-12-21,Milan,Udinese,5,1
+164,17,2008-12-21,Chievo Verona,Genoa,0,1
+165,17,2008-12-21,Catania,Roma,3,2
+166,17,2008-12-21,Cagliari,Reggina,1,1
+167,17,2008-12-21,Atalanta,Juventus,1,3
+168,17,2008-12-21,Sampdoria,Fiorentina,0,1
+169,17,2008-12-21,Lecce,Bologna,0,0
+170,18,2009-01-11,Palermo,Atalanta,3,2
+171,18,2009-01-11,Roma,Milan,2,2
+172,18,2009-01-11,Udinese,Sampdoria,1,1
+173,18,2009-01-11,Reggina,Lazio,2,3
+174,18,2009-01-11,Bologna,Chievo Verona,1,1
+175,18,2009-01-11,Juventus,Siena,1,0
+176,18,2009-01-11,Fiorentina,Lecce,1,2
+177,18,2009-01-11,Inter,Cagliari,1,1
+178,18,2009-01-11,Genoa,Torino,3,0
+179,18,2009-01-11,Napoli,Catania,1,0
+180,19,2009-01-18,Lazio,Juventus,1,1
+181,19,2009-01-18,Milan,Fiorentina,1,0
+182,19,2009-01-18,Atalanta,Inter,3,1
+183,19,2009-01-18,Cagliari,Udinese,2,0
+184,19,2009-01-18,Catania,Bologna,1,2
+185,19,2009-01-18,Chievo Verona,Napoli,2,1
+186,19,2009-01-18,Siena,Reggina,1,0
+187,19,2009-01-18,Lecce,Genoa,0,2
+188,19,2009-01-18,Sampdoria,Palermo,0,2
+189,19,2009-01-18,Torino,Roma,0,1
+190,20,2009-01-25,Palermo,Udinese,3,2
+191,20,2009-01-25,Napoli,Roma,0,3
+192,20,2009-01-25,Inter,Sampdoria,1,0
+193,20,2009-01-25,Juventus,Fiorentina,1,0
+194,20,2009-01-25,Siena,Atalanta,1,0
+195,20,2009-01-25,Lazio,Cagliari,1,4
+196,20,2009-01-25,Bologna,Milan,1,4
+197,20,2009-01-25,Genoa,Catania,1,1
+198,20,2009-01-25,Lecce,Torino,3,3
+199,20,2009-01-25,Reggina,Chievo Verona,0,1
+200,21,2009-01-28,Cagliari,Siena,1,0
+201,21,2009-01-28,Torino,Reggina,0,0
+202,21,2009-01-28,Chievo Verona,Lecce,1,1
+203,21,2009-01-28,Sampdoria,Lazio,3,1
+204,21,2009-01-28,Roma,Palermo,2,1
+205,21,2009-01-28,Milan,Genoa,1,1
+206,21,2009-01-28,Fiorentina,Napoli,2,1
+207,21,2009-01-28,Udinese,Juventus,2,1
+208,21,2009-01-28,Catania,Inter,0,2
+209,21,2009-01-28,Atalanta,Bologna,0,1
+210,22,2009-02-01,Atalanta,Catania,1,0
+211,22,2009-02-01,Reggina,Roma,2,2
+212,22,2009-02-01,Lazio,Milan,0,3
+213,22,2009-02-01,Juventus,Cagliari,2,3
+214,22,2009-02-01,Napoli,Udinese,2,2
+215,22,2009-02-01,Bologna,Fiorentina,1,3
+216,22,2009-02-01,Inter,Torino,1,1
+217,22,2009-02-01,Chievo Verona,Sampdoria,1,1
+218,22,2009-02-01,Genoa,Palermo,1,0
+219,22,2009-02-01,Siena,Lecce,1,2
+220,23,2009-02-08,Torino,Chievo Verona,1,1
+221,23,2009-02-08,Roma,Genoa,3,0
+222,23,2009-02-08,Lecce,Inter,0,3
+223,23,2009-02-08,Udinese,Bologna,1,0
+224,23,2009-02-08,Cagliari,Atalanta,0,1
+225,23,2009-02-08,Milan,Reggina,1,1
+226,23,2009-02-08,Fiorentina,Lazio,1,0
+227,23,2009-02-08,Palermo,Napoli,2,1
+228,23,2009-02-08,Sampdoria,Siena,2,2
+229,23,2009-02-08,Catania,Juventus,1,2
+230,24,2009-02-15,Inter,Milan,2,1
+231,24,2009-02-15,Siena,Udinese,1,1
+232,24,2009-02-15,Lazio,Torino,1,1
+233,24,2009-02-15,Atalanta,Roma,3,0
+234,24,2009-02-15,Reggina,Palermo,0,0
+235,24,2009-02-15,Juventus,Sampdoria,1,1
+236,24,2009-02-15,Cagliari,Lecce,2,0
+237,24,2009-02-15,Chievo Verona,Catania,1,1
+238,24,2009-02-15,Napoli,Bologna,1,1
+239,24,2009-02-15,Genoa,Fiorentina,3,3
+240,25,2009-02-22,Roma,Siena,1,0
+241,25,2009-02-22,Napoli,Genoa,0,1
+242,25,2009-02-22,Lecce,Lazio,0,2
+243,25,2009-02-22,Catania,Reggina,2,0
+244,25,2009-02-22,Bologna,Inter,1,2
+245,25,2009-02-22,Sampdoria,Atalanta,1,0
+246,25,2009-02-22,Palermo,Juventus,0,2
+247,25,2009-02-22,Fiorentina,Chievo Verona,2,1
+248,25,2009-02-22,Milan,Cagliari,1,0
+249,25,2009-02-22,Torino,Udinese,1,0
+250,26,2009-03-01,Inter,Roma,3,3
+251,26,2009-03-01,Palermo,Catania,0,4
+252,26,2009-03-01,Cagliari,Torino,0,0
+253,26,2009-03-01,Udinese,Lecce,2,0
+254,26,2009-03-01,Reggina,Fiorentina,1,1
+255,26,2009-03-01,Juventus,Napoli,1,0
+256,26,2009-03-01,Siena,Genoa,0,0
+257,26,2009-03-01,Lazio,Bologna,2,0
+258,26,2009-03-01,Sampdoria,Milan,2,1
+259,26,2009-03-01,Atalanta,Chievo Verona,0,2
+260,27,2009-03-08,Genoa,Inter,0,2
+261,27,2009-03-08,Roma,Udinese,1,1
+262,27,2009-03-08,Chievo Verona,Cagliari,1,1
+263,27,2009-03-08,Bologna,Sampdoria,3,0
+264,27,2009-03-08,Torino,Juventus,0,1
+265,27,2009-03-08,Lecce,Reggina,0,0
+266,27,2009-03-08,Milan,Atalanta,3,0
+267,27,2009-03-08,Napoli,Lazio,0,2
+268,27,2009-03-08,Catania,Siena,0,3
+269,27,2009-03-08,Fiorentina,Palermo,0,2
+270,28,2009-03-15,Atalanta,Torino,2,0
+271,28,2009-03-15,Lazio,Chievo Verona,0,3
+272,28,2009-03-15,Inter,Fiorentina,2,0
+273,28,2009-03-15,Cagliari,Genoa,0,1
+274,28,2009-03-15,Palermo,Lecce,5,2
+275,28,2009-03-15,Siena,Milan,1,5
+276,28,2009-03-15,Reggina,Napoli,1,1
+277,28,2009-03-15,Sampdoria,Roma,2,2
+278,28,2009-03-15,Juventus,Bologna,4,1
+279,28,2009-03-15,Udinese,Catania,1,1
+280,29,2009-03-22,Catania,Lazio,1,0
+281,29,2009-03-22,Bologna,Cagliari,0,1
+282,29,2009-03-22,Torino,Sampdoria,1,3
+283,29,2009-03-22,Napoli,Milan,0,0
+284,29,2009-03-22,Fiorentina,Siena,1,0
+285,29,2009-03-22,Chievo Verona,Palermo,1,0
+286,29,2009-03-22,Lecce,Atalanta,2,2
+287,29,2009-03-22,Genoa,Udinese,2,0
+288,29,2009-03-22,Inter,Reggina,3,0
+289,29,2009-03-22,Roma,Juventus,1,4
+290,30,2009-04-05,Siena,Lazio,2,0
+291,30,2009-04-05,Milan,Lecce,2,0
+292,30,2009-04-05,Palermo,Torino,1,0
+293,30,2009-04-05,Sampdoria,Napoli,2,2
+294,30,2009-04-05,Udinese,Inter,0,1
+295,30,2009-04-05,Reggina,Genoa,0,1
+296,30,2009-04-05,Roma,Bologna,2,1
+297,30,2009-04-05,Cagliari,Catania,1,0
+298,30,2009-04-05,Juventus,Chievo Verona,3,3
+299,30,2009-04-05,Atalanta,Fiorentina,1,2
+300,31,2009-04-11,Reggina,Udinese,0,2
+301,31,2009-04-11,Inter,Palermo,2,2
+302,31,2009-04-11,Lecce,Sampdoria,1,3
+303,31,2009-04-11,Napoli,Atalanta,0,0
+304,31,2009-04-11,Bologna,Siena,1,4
+305,31,2009-04-11,Fiorentina,Cagliari,2,1
+306,31,2009-04-11,Lazio,Roma,4,2
+307,31,2009-04-11,Genoa,Juventus,3,2
+308,31,2009-04-11,Torino,Catania,2,1
+309,31,2009-04-11,Chievo Verona,Milan,0,1
+310,32,2009-04-19,Cagliari,Napoli,2,0
+311,32,2009-04-19,Genoa,Lazio,0,1
+312,32,2009-04-19,Siena,Chievo Verona,0,2
+313,32,2009-04-19,Atalanta,Reggina,0,1
+314,32,2009-04-19,Palermo,Bologna,4,1
+315,32,2009-04-19,Catania,Sampdoria,2,0
+316,32,2009-04-19,Juventus,Inter,1,1
+317,32,2009-04-19,Milan,Torino,5,1
+318,32,2009-04-19,Udinese,Fiorentina,3,1
+319,32,2009-04-19,Roma,Lecce,3,2
+320,33,2009-04-26,Chievo Verona,Udinese,1,2
+321,33,2009-04-26,Fiorentina,Roma,4,1
+322,33,2009-04-26,Torino,Siena,1,0
+323,33,2009-04-26,Napoli,Inter,1,0
+324,33,2009-04-26,Lecce,Catania,2,1
+325,33,2009-04-26,Sampdoria,Cagliari,3,3
+326,33,2009-04-26,Lazio,Atalanta,0,1
+327,33,2009-04-26,Reggina,Juventus,2,2
+328,33,2009-04-26,Bologna,Genoa,2,0
+329,33,2009-04-26,Milan,Palermo,3,0
+330,34,2009-05-03,Roma,Chievo Verona,0,0
+331,34,2009-05-03,Palermo,Cagliari,5,1
+332,34,2009-05-03,Fiorentina,Torino,1,0
+333,34,2009-05-03,Bologna,Reggina,1,2
+334,34,2009-05-03,Siena,Napoli,2,1
+335,34,2009-05-03,Catania,Milan,0,2
+336,34,2009-05-03,Juventus,Lecce,2,2
+337,34,2009-05-03,Udinese,Atalanta,3,0
+338,34,2009-05-03,Inter,Lazio,2,0
+339,34,2009-05-03,Genoa,Sampdoria,3,1
+340,35,2009-05-10,Milan,Juventus,1,1
+341,35,2009-05-10,Lazio,Udinese,1,3
+342,35,2009-05-10,Lecce,Napoli,1,1
+343,35,2009-05-10,Cagliari,Roma,2,2
+344,35,2009-05-10,Torino,Bologna,1,1
+345,35,2009-05-10,Sampdoria,Reggina,5,0
+346,35,2009-05-10,Siena,Palermo,1,0
+347,35,2009-05-10,Catania,Fiorentina,0,2
+348,35,2009-05-10,Chievo Verona,Inter,2,2
+349,35,2009-05-10,Atalanta,Genoa,1,1
+350,36,2009-05-17,Reggina,Cagliari,2,1
+351,36,2009-05-17,Roma,Catania,4,3
+352,36,2009-05-17,Bologna,Lecce,2,1
+353,36,2009-05-17,Fiorentina,Sampdoria,1,0
+354,36,2009-05-17,Udinese,Milan,2,1
+355,36,2009-05-17,Inter,Siena,3,0
+356,36,2009-05-17,Napoli,Torino,1,2
+357,36,2009-05-17,Palermo,Lazio,2,0
+358,36,2009-05-17,Juventus,Atalanta,2,2
+359,36,2009-05-17,Genoa,Chievo Verona,2,2
+360,37,2009-05-24,Lazio,Reggina,1,0
+361,37,2009-05-24,Lecce,Fiorentina,1,1
+362,37,2009-05-24,Sampdoria,Udinese,2,2
+363,37,2009-05-24,Atalanta,Palermo,2,2
+364,37,2009-05-24,Torino,Genoa,2,3
+365,37,2009-05-24,Catania,Napoli,3,1
+366,37,2009-05-24,Siena,Juventus,0,3
+367,37,2009-05-24,Cagliari,Inter,2,1
+368,37,2009-05-24,Milan,Roma,2,3
+369,37,2009-05-24,Chievo Verona,Bologna,0,0
+370,38,2009-05-31,Roma,Torino,3,2
+371,38,2009-05-31,Palermo,Sampdoria,2,2
+372,38,2009-05-31,Genoa,Lecce,4,1
+373,38,2009-05-31,Reggina,Siena,1,1
+374,38,2009-05-31,Bologna,Catania,3,1
+375,38,2009-05-31,Udinese,Cagliari,6,2
+376,38,2009-05-31,Inter,Atalanta,4,3
+377,38,2009-05-31,Fiorentina,Milan,0,2
+378,38,2009-05-31,Napoli,Chievo Verona,3,0
+379,38,2009-05-31,Juventus,Lazio,2,0

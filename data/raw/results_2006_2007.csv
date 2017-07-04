@@ -1,0 +1,381 @@
+,DAY,DATE,HOME_TEAM,AWAY_TEAM,HOME_GOALS,AWAY_GOALS
+0,1,2006-09-10,Fiorentina,Inter,2,3
+1,1,2006-09-10,Sampdoria,Empoli,1,2
+2,1,2006-09-10,Palermo,Reggina,4,3
+3,1,2006-09-10,Milan,Lazio,2,1
+4,1,2006-09-10,Messina,Udinese,1,0
+5,1,2006-09-10,Chievo Verona,Siena,1,2
+6,1,2006-09-10,Torino,Parma,1,1
+7,1,2006-09-10,Atalanta,Ascoli Picchio,3,1
+8,1,2006-09-10,Roma,Livorno,2,0
+9,1,2006-09-10,Cagliari,Catania,0,1
+10,2,2006-09-17,Lazio,Palermo,1,2
+11,2,2006-09-17,Livorno,Fiorentina,1,0
+12,2,2006-09-17,Inter,Sampdoria,1,1
+13,2,2006-09-17,Catania,Atalanta,0,0
+14,2,2006-09-17,Parma,Milan,0,2
+15,2,2006-09-17,Ascoli Picchio,Messina,1,1
+16,2,2006-09-17,Reggina,Cagliari,2,1
+17,2,2006-09-17,Siena,Roma,1,3
+18,2,2006-09-17,Empoli,Chievo Verona,1,1
+19,2,2006-09-17,Udinese,Torino,2,0
+20,3,2006-09-20,Messina,Reggina,2,0
+21,3,2006-09-20,Cagliari,Livorno,2,2
+22,3,2006-09-20,Chievo Verona,Lazio,0,1
+23,3,2006-09-20,Fiorentina,Parma,1,0
+24,3,2006-09-20,Atalanta,Empoli,0,0
+25,3,2006-09-20,Milan,Ascoli Picchio,1,0
+26,3,2006-09-20,Torino,Siena,1,2
+27,3,2006-09-20,Palermo,Catania,5,3
+28,3,2006-09-20,Roma,Inter,0,1
+29,3,2006-09-20,Sampdoria,Udinese,3,3
+30,4,2006-09-24,Inter,Chievo Verona,4,3
+31,4,2006-09-24,Ascoli Picchio,Sampdoria,1,1
+32,4,2006-09-24,Lazio,Atalanta,1,0
+33,4,2006-09-24,Parma,Roma,0,4
+34,4,2006-09-24,Livorno,Milan,0,0
+35,4,2006-09-24,Siena,Cagliari,0,0
+36,4,2006-09-24,Udinese,Fiorentina,1,0
+37,4,2006-09-24,Empoli,Palermo,2,0
+38,4,2006-09-24,Catania,Messina,2,2
+39,4,2006-09-24,Reggina,Torino,1,1
+40,5,2006-10-01,Roma,Empoli,1,0
+41,5,2006-10-01,Cagliari,Inter,1,1
+42,5,2006-10-01,Chievo Verona,Palermo,0,1
+43,5,2006-10-01,Fiorentina,Catania,3,0
+44,5,2006-10-01,Messina,Livorno,0,1
+45,5,2006-10-01,Milan,Siena,0,0
+46,5,2006-10-01,Sampdoria,Parma,3,2
+47,5,2006-10-01,Udinese,Ascoli Picchio,0,0
+48,5,2006-10-01,Torino,Lazio,0,4
+49,5,2006-10-01,Atalanta,Reggina,1,1
+50,6,2006-10-15,Lazio,Cagliari,0,0
+51,6,2006-10-15,Siena,Messina,3,1
+52,6,2006-10-15,Sampdoria,Milan,1,1
+53,6,2006-10-15,Ascoli Picchio,Livorno,0,2
+54,6,2006-10-15,Empoli,Fiorentina,1,2
+55,6,2006-10-15,Inter,Catania,2,1
+56,6,2006-10-15,Palermo,Atalanta,2,3
+57,6,2006-10-15,Parma,Udinese,0,3
+58,6,2006-10-15,Reggina,Roma,1,0
+59,6,2006-10-15,Torino,Chievo Verona,1,0
+60,7,2006-10-22,Roma,Chievo Verona,1,1
+61,7,2006-10-22,Messina,Empoli,2,2
+62,7,2006-10-22,Udinese,Inter,0,0
+63,7,2006-10-22,Parma,Ascoli Picchio,1,0
+64,7,2006-10-22,Milan,Palermo,0,2
+65,7,2006-10-22,Livorno,Siena,0,0
+66,7,2006-10-22,Cagliari,Torino,0,0
+67,7,2006-10-22,Catania,Lazio,3,1
+68,7,2006-10-22,Atalanta,Sampdoria,3,2
+69,7,2006-10-22,Fiorentina,Reggina,3,0
+70,8,2006-10-25,Torino,Fiorentina,0,1
+71,8,2006-10-25,Sampdoria,Lazio,2,0
+72,8,2006-10-25,Chievo Verona,Milan,0,1
+73,8,2006-10-25,Roma,Ascoli Picchio,2,2
+74,8,2006-10-25,Empoli,Udinese,1,1
+75,8,2006-10-25,Siena,Catania,1,1
+76,8,2006-10-25,Inter,Livorno,4,1
+77,8,2006-10-25,Atalanta,Cagliari,3,3
+78,8,2006-10-25,Palermo,Messina,2,1
+79,8,2006-10-25,Reggina,Parma,3,2
+80,9,2006-10-29,Messina,Chievo Verona,2,1
+81,9,2006-10-29,Milan,Inter,3,4
+82,9,2006-10-29,Udinese,Roma,0,1
+83,9,2006-10-29,Ascoli Picchio,Siena,0,1
+84,9,2006-10-29,Cagliari,Sampdoria,1,0
+85,9,2006-10-29,Catania,Torino,1,1
+86,9,2006-10-29,Fiorentina,Palermo,2,3
+87,9,2006-10-29,Lazio,Reggina,0,0
+88,9,2006-10-29,Livorno,Empoli,0,0
+89,9,2006-10-29,Parma,Atalanta,3,1
+90,10,2006-11-05,Torino,Messina,1,1
+91,10,2006-11-05,Livorno,Udinese,1,0
+92,10,2006-11-05,Inter,Ascoli Picchio,2,0
+93,10,2006-11-05,Empoli,Lazio,1,1
+94,10,2006-11-05,Siena,Parma,2,2
+95,10,2006-11-05,Atalanta,Milan,2,0
+96,10,2006-11-05,Reggina,Catania,0,1
+97,10,2006-11-05,Palermo,Sampdoria,2,0
+98,10,2006-11-05,Chievo Verona,Cagliari,0,0
+99,10,2006-11-05,Roma,Fiorentina,3,1
+100,11,2006-11-12,Siena,Reggina,0,1
+101,11,2006-11-12,Sampdoria,Chievo Verona,3,0
+102,11,2006-11-12,Palermo,Torino,3,0
+103,11,2006-11-12,Lazio,Udinese,5,0
+104,11,2006-11-12,Fiorentina,Atalanta,3,1
+105,11,2006-11-12,Catania,Livorno,3,2
+106,11,2006-11-12,Milan,Roma,1,2
+107,11,2006-11-12,Parma,Inter,1,2
+108,11,2006-11-12,Ascoli Picchio,Empoli,0,1
+109,11,2006-11-12,Messina,Cagliari,2,2
+110,12,2006-11-19,Udinese,Siena,3,0
+111,12,2006-11-19,Empoli,Milan,0,0
+112,12,2006-11-19,Torino,Sampdoria,1,0
+113,12,2006-11-19,Roma,Catania,7,0
+114,12,2006-11-19,Chievo Verona,Atalanta,2,2
+115,12,2006-11-19,Ascoli Picchio,Fiorentina,1,1
+116,12,2006-11-19,Messina,Lazio,1,4
+117,12,2006-11-19,Livorno,Parma,3,0
+118,12,2006-11-19,Inter,Reggina,1,0
+119,12,2006-11-19,Cagliari,Palermo,1,0
+120,13,2006-11-26,Atalanta,Torino,1,2
+121,13,2006-11-26,Empoli,Cagliari,1,0
+122,13,2006-11-26,Lazio,Ascoli Picchio,3,1
+123,13,2006-11-26,Milan,Messina,1,0
+124,13,2006-11-26,Palermo,Inter,1,2
+125,13,2006-11-26,Reggina,Livorno,2,2
+126,13,2006-11-26,Catania,Parma,2,0
+127,13,2006-11-26,Sampdoria,Roma,2,4
+128,13,2006-11-26,Siena,Fiorentina,1,1
+129,13,2006-11-26,Chievo Verona,Udinese,2,0
+130,14,2006-12-03,Cagliari,Milan,2,2
+131,14,2006-12-03,Parma,Palermo,0,0
+132,14,2006-12-03,Fiorentina,Lazio,1,0
+133,14,2006-12-03,Torino,Empoli,1,0
+134,14,2006-12-03,Inter,Siena,2,0
+135,14,2006-12-03,Messina,Sampdoria,0,2
+136,14,2006-12-03,Ascoli Picchio,Catania,2,2
+137,14,2006-12-03,Livorno,Chievo Verona,0,2
+138,14,2006-12-03,Udinese,Reggina,1,1
+139,14,2006-12-03,Roma,Atalanta,2,1
+140,15,2006-12-10,Sampdoria,Siena,0,0
+141,15,2006-12-10,Milan,Torino,0,0
+142,15,2006-12-10,Reggina,Ascoli Picchio,2,1
+143,15,2006-12-10,Chievo Verona,Fiorentina,0,1
+144,15,2006-12-10,Atalanta,Messina,3,2
+145,15,2006-12-10,Lazio,Roma,3,0
+146,15,2006-12-10,Cagliari,Parma,0,0
+147,15,2006-12-10,Catania,Udinese,1,0
+148,15,2006-12-10,Empoli,Inter,0,3
+149,15,2006-12-10,Palermo,Livorno,3,0
+150,16,2006-12-17,Parma,Chievo Verona,2,2
+151,16,2006-12-17,Udinese,Cagliari,3,1
+152,16,2006-12-17,Inter,Messina,2,0
+153,16,2006-12-17,Fiorentina,Milan,2,2
+154,16,2006-12-17,Livorno,Lazio,1,1
+155,16,2006-12-17,Ascoli Picchio,Torino,0,2
+156,16,2006-12-17,Reggina,Sampdoria,0,1
+157,16,2006-12-17,Siena,Atalanta,1,1
+158,16,2006-12-17,Roma,Palermo,4,0
+159,16,2006-12-17,Catania,Empoli,2,1
+160,17,2006-12-20,Cagliari,Fiorentina,0,2
+161,17,2006-12-20,Atalanta,Udinese,1,2
+162,17,2006-12-20,Sampdoria,Livorno,4,1
+163,17,2006-12-20,Torino,Roma,1,2
+164,17,2006-12-20,Messina,Parma,1,1
+165,17,2006-12-20,Lazio,Inter,0,2
+166,17,2006-12-20,Empoli,Siena,1,0
+167,17,2006-12-20,Chievo Verona,Reggina,3,2
+168,17,2006-12-20,Palermo,Ascoli Picchio,4,0
+169,17,2006-12-20,Milan,Catania,3,0
+170,18,2006-12-23,Reggina,Empoli,4,1
+171,18,2006-12-23,Udinese,Milan,0,3
+172,18,2006-12-23,Roma,Cagliari,2,0
+173,18,2006-12-23,Siena,Palermo,1,1
+174,18,2006-12-23,Fiorentina,Messina,4,0
+175,18,2006-12-23,Livorno,Torino,1,1
+176,18,2006-12-23,Inter,Atalanta,2,1
+177,18,2006-12-23,Catania,Sampdoria,4,2
+178,18,2006-12-23,Ascoli Picchio,Chievo Verona,3,0
+179,18,2006-12-23,Parma,Lazio,1,3
+180,19,2007-01-14,Sampdoria,Fiorentina,0,0
+181,19,2007-01-14,Torino,Inter,1,3
+182,19,2007-01-14,Atalanta,Livorno,5,1
+183,19,2007-01-14,Cagliari,Ascoli Picchio,1,0
+184,19,2007-01-14,Chievo Verona,Catania,2,1
+185,19,2007-01-14,Lazio,Siena,1,1
+186,19,2007-01-14,Empoli,Parma,2,0
+187,19,2007-01-14,Messina,Roma,1,1
+188,19,2007-01-14,Milan,Reggina,3,1
+189,19,2007-01-14,Palermo,Udinese,2,0
+190,20,2007-01-21,Inter,Fiorentina,3,1
+191,20,2007-01-21,Empoli,Sampdoria,2,0
+192,20,2007-01-21,Livorno,Roma,1,1
+193,20,2007-01-21,Lazio,Milan,0,0
+194,20,2007-01-21,Ascoli Picchio,Atalanta,1,3
+195,20,2007-01-21,Catania,Cagliari,0,1
+196,20,2007-01-21,Reggina,Palermo,0,0
+197,20,2007-01-21,Siena,Chievo Verona,2,1
+198,20,2007-01-21,Parma,Torino,1,0
+199,20,2007-01-21,Udinese,Messina,1,0
+200,21,2007-01-28,Roma,Siena,1,0
+201,21,2007-01-28,Milan,Parma,1,0
+202,21,2007-01-28,Palermo,Lazio,0,3
+203,21,2007-01-28,Chievo Verona,Empoli,0,0
+204,21,2007-01-28,Sampdoria,Inter,0,2
+205,21,2007-01-28,Atalanta,Catania,1,1
+206,21,2007-01-28,Fiorentina,Livorno,2,1
+207,21,2007-01-28,Torino,Udinese,2,3
+208,21,2007-01-28,Cagliari,Reggina,0,2
+209,21,2007-01-28,Messina,Ascoli Picchio,1,2
+210,22,2007-04-18,Empoli,Atalanta,2,0
+211,22,2007-04-18,Livorno,Cagliari,2,1
+212,22,2007-04-18,Siena,Torino,1,0
+213,22,2007-04-18,Lazio,Chievo Verona,0,0
+214,22,2007-04-18,Udinese,Sampdoria,1,0
+215,22,2007-04-18,Parma,Fiorentina,2,0
+216,22,2007-04-18,Inter,Roma,1,3
+217,22,2007-04-18,Catania,Palermo,1,2
+218,22,2007-04-18,Ascoli Picchio,Milan,2,5
+219,22,2007-04-18,Reggina,Messina,3,1
+220,23,2007-02-11,Sampdoria,Ascoli Picchio,2,0
+221,23,2007-02-11,Palermo,Empoli,0,1
+222,23,2007-02-11,Chievo Verona,Inter,0,2
+223,23,2007-02-11,Milan,Livorno,2,1
+224,23,2007-02-11,Messina,Catania,1,1
+225,23,2007-02-11,Cagliari,Siena,2,2
+226,23,2007-02-11,Roma,Parma,3,0
+227,23,2007-02-11,Torino,Reggina,1,2
+228,23,2007-02-11,Fiorentina,Udinese,2,0
+229,23,2007-02-11,Atalanta,Lazio,0,0
+230,24,2007-02-18,Ascoli Picchio,Udinese,2,2
+231,24,2007-02-18,Parma,Sampdoria,0,1
+232,24,2007-02-18,Empoli,Roma,1,0
+233,24,2007-02-18,Siena,Milan,3,4
+234,24,2007-02-18,Livorno,Messina,2,1
+235,24,2007-02-18,Reggina,Atalanta,1,1
+236,24,2007-02-18,Catania,Fiorentina,0,1
+237,24,2007-02-18,Palermo,Chievo Verona,1,1
+238,24,2007-02-18,Inter,Cagliari,1,0
+239,24,2007-02-18,Lazio,Torino,2,0
+240,25,2007-02-25,Udinese,Parma,3,3
+241,25,2007-02-25,Catania,Inter,2,5
+242,25,2007-02-25,Messina,Siena,1,0
+243,25,2007-02-25,Atalanta,Palermo,1,1
+244,25,2007-02-25,Milan,Sampdoria,1,0
+245,25,2007-02-25,Livorno,Ascoli Picchio,0,0
+246,25,2007-02-25,Cagliari,Lazio,0,2
+247,25,2007-02-25,Fiorentina,Empoli,2,0
+248,25,2007-02-25,Chievo Verona,Torino,3,0
+249,25,2007-02-25,Roma,Reggina,3,0
+250,26,2007-02-28,Inter,Udinese,1,1
+251,26,2007-02-28,Lazio,Catania,3,1
+252,26,2007-02-28,Chievo Verona,Roma,2,2
+253,26,2007-02-28,Palermo,Milan,0,0
+254,26,2007-02-28,Torino,Cagliari,1,0
+255,26,2007-02-28,Empoli,Messina,3,1
+256,26,2007-02-28,Siena,Livorno,0,0
+257,26,2007-02-28,Sampdoria,Atalanta,2,1
+258,26,2007-02-28,Ascoli Picchio,Parma,0,0
+259,26,2007-02-28,Reggina,Fiorentina,1,1
+260,27,2007-03-04,Messina,Palermo,2,0
+261,27,2007-03-04,Lazio,Sampdoria,1,0
+262,27,2007-03-04,Livorno,Inter,1,2
+263,27,2007-03-04,Ascoli Picchio,Roma,1,1
+264,27,2007-03-04,Milan,Chievo Verona,3,1
+265,27,2007-03-04,Catania,Siena,1,1
+266,27,2007-03-04,Udinese,Empoli,0,1
+267,27,2007-03-04,Parma,Reggina,2,2
+268,27,2007-03-04,Cagliari,Atalanta,2,0
+269,27,2007-03-04,Fiorentina,Torino,5,1
+270,28,2007-03-11,Atalanta,Parma,1,1
+271,28,2007-03-11,Siena,Ascoli Picchio,0,1
+272,28,2007-03-11,Sampdoria,Cagliari,1,1
+273,28,2007-03-11,Torino,Catania,1,0
+274,28,2007-03-11,Palermo,Fiorentina,1,1
+275,28,2007-03-11,Reggina,Lazio,2,3
+276,28,2007-03-11,Empoli,Livorno,2,2
+277,28,2007-03-11,Chievo Verona,Messina,1,1
+278,28,2007-03-11,Inter,Milan,2,1
+279,28,2007-03-11,Roma,Udinese,3,1
+280,29,2007-03-18,Lazio,Empoli,3,1
+281,29,2007-03-18,Cagliari,Chievo Verona,0,2
+282,29,2007-03-18,Sampdoria,Palermo,1,1
+283,29,2007-03-18,Messina,Torino,0,3
+284,29,2007-03-18,Udinese,Livorno,4,0
+285,29,2007-03-18,Ascoli Picchio,Inter,1,2
+286,29,2007-03-18,Milan,Atalanta,1,0
+287,29,2007-03-18,Fiorentina,Roma,0,0
+288,29,2007-03-18,Parma,Siena,1,0
+289,29,2007-03-18,Catania,Reggina,1,4
+290,30,2007-04-01,Inter,Parma,2,0
+291,30,2007-04-01,Chievo Verona,Sampdoria,1,1
+292,30,2007-04-01,Atalanta,Fiorentina,2,2
+293,30,2007-04-01,Reggina,Siena,0,1
+294,30,2007-04-01,Torino,Palermo,0,0
+295,30,2007-04-01,Cagliari,Messina,2,0
+296,30,2007-04-01,Roma,Milan,1,1
+297,30,2007-04-01,Empoli,Ascoli Picchio,4,1
+298,30,2007-04-01,Livorno,Catania,4,1
+299,30,2007-04-01,Udinese,Lazio,2,4
+300,31,2007-04-07,Sampdoria,Torino,1,0
+301,31,2007-04-07,Milan,Empoli,3,1
+302,31,2007-04-07,Catania,Roma,0,2
+303,31,2007-04-07,Fiorentina,Ascoli Picchio,4,0
+304,31,2007-04-07,Lazio,Messina,1,0
+305,31,2007-04-07,Atalanta,Chievo Verona,1,0
+306,31,2007-04-07,Siena,Udinese,2,2
+307,31,2007-04-07,Palermo,Cagliari,1,3
+308,31,2007-04-07,Reggina,Inter,0,0
+309,31,2007-04-07,Parma,Livorno,1,0
+310,32,2007-04-15,Inter,Palermo,2,2
+311,32,2007-04-15,Cagliari,Empoli,0,0
+312,32,2007-04-15,Parma,Catania,1,1
+313,32,2007-04-15,Livorno,Reggina,1,1
+314,32,2007-04-15,Torino,Atalanta,1,2
+315,32,2007-04-15,Fiorentina,Siena,1,0
+316,32,2007-04-15,Messina,Milan,1,3
+317,32,2007-04-15,Roma,Sampdoria,4,0
+318,32,2007-04-15,Udinese,Chievo Verona,2,1
+319,32,2007-04-15,Ascoli Picchio,Lazio,2,2
+320,33,2007-04-22,Empoli,Torino,0,0
+321,33,2007-04-22,Palermo,Parma,3,4
+322,33,2007-04-22,Sampdoria,Messina,3,1
+323,33,2007-04-22,Chievo Verona,Livorno,2,1
+324,33,2007-04-22,Siena,Inter,1,2
+325,33,2007-04-22,Milan,Cagliari,3,1
+326,33,2007-04-22,Catania,Ascoli Picchio,3,3
+327,33,2007-04-22,Atalanta,Roma,2,1
+328,33,2007-04-22,Lazio,Fiorentina,0,1
+329,33,2007-04-22,Reggina,Udinese,1,1
+330,34,2007-04-29,Livorno,Palermo,1,2
+331,34,2007-04-29,Parma,Cagliari,2,1
+332,34,2007-04-29,Torino,Milan,0,1
+333,34,2007-04-29,Roma,Lazio,0,0
+334,34,2007-04-29,Inter,Empoli,4,1
+335,34,2007-04-29,Fiorentina,Chievo Verona,1,0
+336,34,2007-04-29,Udinese,Catania,0,1
+337,34,2007-04-29,Messina,Atalanta,0,0
+338,34,2007-04-29,Ascoli Picchio,Reggina,2,3
+339,34,2007-04-29,Siena,Sampdoria,0,2
+340,35,2007-05-06,Empoli,Catania,2,1
+341,35,2007-05-06,Palermo,Roma,1,2
+342,35,2007-05-06,Cagliari,Udinese,2,1
+343,35,2007-05-06,Atalanta,Siena,3,1
+344,35,2007-05-06,Milan,Fiorentina,0,0
+345,35,2007-05-06,Sampdoria,Reggina,0,0
+346,35,2007-05-06,Chievo Verona,Parma,1,0
+347,35,2007-05-06,Torino,Ascoli Picchio,1,0
+348,35,2007-05-06,Lazio,Livorno,1,0
+349,35,2007-05-06,Messina,Inter,0,1
+350,36,2007-05-13,Siena,Empoli,2,0
+351,36,2007-05-13,Inter,Lazio,4,3
+352,36,2007-05-13,Catania,Milan,1,1
+353,36,2007-05-13,Ascoli Picchio,Palermo,3,2
+354,36,2007-05-13,Roma,Torino,0,1
+355,36,2007-05-13,Fiorentina,Cagliari,1,0
+356,36,2007-05-13,Livorno,Sampdoria,1,0
+357,36,2007-05-13,Udinese,Atalanta,2,3
+358,36,2007-05-13,Reggina,Chievo Verona,1,1
+359,36,2007-05-13,Parma,Messina,4,1
+360,37,2007-05-20,Palermo,Siena,2,1
+361,37,2007-05-20,Atalanta,Inter,1,1
+362,37,2007-05-20,Cagliari,Roma,3,2
+363,37,2007-05-20,Empoli,Reggina,3,3
+364,37,2007-05-20,Chievo Verona,Ascoli Picchio,1,0
+365,37,2007-05-20,Lazio,Parma,0,0
+366,37,2007-05-20,Torino,Livorno,0,0
+367,37,2007-05-20,Sampdoria,Catania,1,0
+368,37,2007-05-20,Milan,Udinese,2,3
+369,37,2007-05-20,Messina,Fiorentina,2,2
+370,38,2007-05-27,Udinese,Palermo,1,2
+371,38,2007-05-27,Reggina,Milan,2,0
+372,38,2007-05-27,Roma,Messina,4,3
+373,38,2007-05-27,Parma,Empoli,3,1
+374,38,2007-05-27,Catania,Chievo Verona,2,0
+375,38,2007-05-27,Ascoli Picchio,Cagliari,2,1
+376,38,2007-05-27,Livorno,Atalanta,4,2
+377,38,2007-05-27,Inter,Torino,3,0
+378,38,2007-05-27,Siena,Lazio,2,1
+379,38,2007-05-27,Fiorentina,Sampdoria,5,1

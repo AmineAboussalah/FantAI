@@ -1,0 +1,381 @@
+,DAY,DATE,HOME_TEAM,AWAY_TEAM,HOME_GOALS,AWAY_GOALS
+0,1,2011-12-21,Atalanta,Cesena,4,1
+1,1,2011-12-21,Napoli,Genoa,6,1
+2,1,2011-12-21,Lazio,Chievo Verona,0,0
+3,1,2011-12-21,Inter,Lecce,4,1
+4,1,2011-12-21,Bologna,Roma,0,2
+5,1,2011-12-21,Udinese,Juventus,0,0
+6,1,2011-12-21,Parma,Catania,3,3
+7,1,2011-12-21,Cagliari,Milan,0,2
+8,1,2011-12-21,Novara,Palermo,2,2
+9,1,2011-12-21,Siena,Fiorentina,0,0
+10,2,2011-09-11,Fiorentina,Bologna,2,0
+11,2,2011-09-11,Genoa,Atalanta,2,2
+12,2,2011-09-11,Milan,Lazio,2,2
+13,2,2011-09-11,Catania,Siena,0,0
+14,2,2011-09-11,Lecce,Udinese,0,2
+15,2,2011-09-11,Juventus,Parma,4,1
+16,2,2011-09-11,Cesena,Napoli,1,3
+17,2,2011-09-11,Roma,Cagliari,1,2
+18,2,2011-09-11,Chievo Verona,Novara,2,2
+19,2,2011-09-11,Palermo,Inter,4,3
+20,3,2011-09-18,Catania,Cesena,1,0
+21,3,2011-09-18,Inter,Roma,0,0
+22,3,2011-09-18,Atalanta,Palermo,1,0
+23,3,2011-09-18,Bologna,Lecce,0,2
+24,3,2011-09-18,Cagliari,Novara,2,1
+25,3,2011-09-18,Lazio,Genoa,1,2
+26,3,2011-09-18,Napoli,Milan,3,1
+27,3,2011-09-18,Parma,Chievo Verona,2,1
+28,3,2011-09-18,Siena,Juventus,0,1
+29,3,2011-09-18,Udinese,Fiorentina,2,0
+30,4,2011-09-21,Genoa,Catania,3,0
+31,4,2011-09-21,Chievo Verona,Napoli,1,0
+32,4,2011-09-21,Juventus,Bologna,1,1
+33,4,2011-09-21,Lecce,Atalanta,1,2
+34,4,2011-09-21,Cesena,Lazio,1,2
+35,4,2011-09-21,Palermo,Cagliari,3,2
+36,4,2011-09-21,Roma,Siena,1,1
+37,4,2011-09-21,Fiorentina,Parma,3,0
+38,4,2011-09-21,Novara,Inter,3,1
+39,4,2011-09-21,Milan,Udinese,1,1
+40,5,2011-09-25,Lazio,Palermo,0,0
+41,5,2011-09-25,Napoli,Fiorentina,0,0
+42,5,2011-09-25,Chievo Verona,Genoa,2,1
+43,5,2011-09-25,Atalanta,Novara,2,1
+44,5,2011-09-25,Cagliari,Udinese,0,0
+45,5,2011-09-25,Catania,Juventus,1,1
+46,5,2011-09-25,Siena,Lecce,3,0
+47,5,2011-09-25,Parma,Roma,0,1
+48,5,2011-09-25,Milan,Cesena,1,0
+49,5,2011-09-25,Bologna,Inter,1,3
+50,6,2011-10-02,Lecce,Cagliari,0,2
+51,6,2011-10-02,Roma,Atalanta,3,1
+52,6,2011-10-02,Inter,Napoli,0,3
+53,6,2011-10-02,Novara,Catania,3,3
+54,6,2011-10-02,Cesena,Chievo Verona,0,0
+55,6,2011-10-02,Fiorentina,Lazio,1,2
+56,6,2011-10-02,Palermo,Siena,2,0
+57,6,2011-10-02,Parma,Genoa,3,1
+58,6,2011-10-02,Udinese,Bologna,2,0
+59,6,2011-10-02,Juventus,Milan,2,0
+60,7,2011-10-16,Novara,Bologna,0,2
+61,7,2011-10-16,Milan,Palermo,3,0
+62,7,2011-10-16,Lazio,Roma,2,1
+63,7,2011-10-16,Genoa,Lecce,0,0
+64,7,2011-10-16,Chievo Verona,Juventus,0,0
+65,7,2011-10-16,Cagliari,Siena,0,0
+66,7,2011-10-16,Catania,Inter,2,1
+67,7,2011-10-16,Cesena,Fiorentina,0,0
+68,7,2011-10-16,Napoli,Parma,1,2
+69,7,2011-10-16,Atalanta,Udinese,0,0
+70,8,2011-10-23,Bologna,Lazio,0,2
+71,8,2011-10-23,Udinese,Novara,3,0
+72,8,2011-10-23,Juventus,Genoa,2,2
+73,8,2011-10-23,Roma,Palermo,1,0
+74,8,2011-10-23,Lecce,Milan,3,4
+75,8,2011-10-23,Siena,Cesena,2,0
+76,8,2011-10-23,Cagliari,Napoli,0,0
+77,8,2011-10-23,Fiorentina,Catania,2,2
+78,8,2011-10-23,Inter,Chievo Verona,1,0
+79,8,2011-10-23,Parma,Atalanta,1,2
+80,9,2011-10-26,Novara,Siena,1,1
+81,9,2011-10-26,Juventus,Fiorentina,2,1
+82,9,2011-10-26,Atalanta,Inter,1,1
+83,9,2011-10-26,Cesena,Cagliari,1,1
+84,9,2011-10-26,Chievo Verona,Bologna,0,1
+85,9,2011-10-26,Genoa,Roma,2,1
+86,9,2011-10-26,Lazio,Catania,1,1
+87,9,2011-10-26,Milan,Parma,4,1
+88,9,2011-10-26,Napoli,Udinese,2,0
+89,9,2011-10-26,Palermo,Lecce,2,0
+90,10,2011-10-30,Cagliari,Lazio,0,3
+91,10,2011-10-30,Lecce,Novara,1,1
+92,10,2011-10-30,Fiorentina,Genoa,1,0
+93,10,2011-10-30,Bologna,Atalanta,3,1
+94,10,2011-10-30,Roma,Milan,2,3
+95,10,2011-10-30,Inter,Juventus,1,2
+96,10,2011-10-30,Catania,Napoli,2,1
+97,10,2011-10-30,Parma,Cesena,2,0
+98,10,2011-10-30,Siena,Chievo Verona,4,1
+99,10,2011-10-30,Udinese,Palermo,1,0
+100,11,2011-11-06,Napoli,Juventus,3,3
+101,11,2011-11-06,Udinese,Siena,2,1
+102,11,2011-11-06,Lazio,Parma,1,0
+103,11,2011-11-06,Chievo Verona,Fiorentina,1,0
+104,11,2011-11-06,Palermo,Bologna,3,1
+105,11,2011-11-06,Cesena,Lecce,0,1
+106,11,2011-11-06,Novara,Roma,0,2
+107,11,2011-11-06,Milan,Catania,4,0
+108,11,2011-11-06,Atalanta,Cagliari,1,0
+109,11,2011-11-06,Genoa,Inter,0,1
+110,12,2011-11-20,Roma,Lecce,2,1
+111,12,2011-11-20,Fiorentina,Milan,0,0
+112,12,2011-11-20,Siena,Atalanta,2,2
+113,12,2011-11-20,Parma,Udinese,2,0
+114,12,2011-11-20,Bologna,Cesena,0,1
+115,12,2011-11-20,Napoli,Lazio,0,0
+116,12,2011-11-20,Juventus,Palermo,3,0
+117,12,2011-11-20,Genoa,Novara,1,0
+118,12,2011-11-20,Catania,Chievo Verona,1,2
+119,12,2011-11-20,Inter,Cagliari,2,1
+120,13,2011-11-27,Novara,Parma,2,1
+121,13,2011-11-27,Lazio,Juventus,0,1
+122,13,2011-11-27,Cagliari,Bologna,1,1
+123,13,2011-11-27,Lecce,Catania,0,1
+124,13,2011-11-27,Cesena,Genoa,2,0
+125,13,2011-11-27,Palermo,Fiorentina,2,0
+126,13,2011-11-27,Atalanta,Napoli,1,1
+127,13,2011-11-27,Milan,Chievo Verona,4,0
+128,13,2011-11-27,Siena,Inter,0,1
+129,13,2011-11-27,Udinese,Roma,2,0
+130,14,2011-12-04,Catania,Cagliari,0,1
+131,14,2011-12-04,Juventus,Cesena,2,0
+132,14,2011-12-04,Bologna,Siena,1,0
+133,14,2011-12-04,Parma,Palermo,0,0
+134,14,2011-12-04,Genoa,Milan,0,2
+135,14,2011-12-04,Fiorentina,Roma,3,0
+136,14,2011-12-04,Napoli,Lecce,4,2
+137,14,2011-12-04,Chievo Verona,Atalanta,0,0
+138,14,2011-12-04,Lazio,Novara,3,0
+139,14,2011-12-04,Inter,Udinese,0,1
+140,15,2011-12-11,Roma,Juventus,1,1
+141,15,2011-12-11,Novara,Napoli,1,1
+142,15,2011-12-11,Siena,Genoa,0,2
+143,15,2011-12-11,Bologna,Milan,2,2
+144,15,2011-12-11,Inter,Fiorentina,2,0
+145,15,2011-12-11,Udinese,Chievo Verona,2,1
+146,15,2011-12-11,Palermo,Cesena,0,1
+147,15,2011-12-11,Atalanta,Catania,1,1
+148,15,2011-12-11,Cagliari,Parma,0,0
+149,15,2011-12-11,Lecce,Lazio,2,3
+150,16,2011-12-18,Genoa,Bologna,2,1
+151,16,2011-12-18,Fiorentina,Atalanta,2,2
+152,16,2011-12-18,Catania,Palermo,2,0
+153,16,2011-12-18,Chievo Verona,Cagliari,2,0
+154,16,2011-12-18,Cesena,Inter,0,1
+155,16,2011-12-18,Milan,Siena,2,0
+156,16,2011-12-18,Juventus,Novara,2,0
+157,16,2011-12-18,Parma,Lecce,3,3
+158,16,2011-12-18,Lazio,Udinese,2,2
+159,16,2011-12-18,Napoli,Roma,1,3
+160,17,2012-01-08,Inter,Parma,5,0
+161,17,2012-01-08,Siena,Lazio,4,0
+162,17,2012-01-08,Roma,Chievo Verona,2,0
+163,17,2012-01-08,Palermo,Napoli,1,3
+164,17,2012-01-08,Cagliari,Genoa,3,0
+165,17,2012-01-08,Bologna,Catania,2,0
+166,17,2012-01-08,Atalanta,Milan,0,2
+167,17,2012-01-08,Udinese,Cesena,4,1
+168,17,2012-01-08,Novara,Fiorentina,0,3
+169,17,2012-01-08,Lecce,Juventus,0,1
+170,18,2012-01-15,Juventus,Cagliari,1,1
+171,18,2012-01-15,Napoli,Bologna,1,1
+172,18,2012-01-15,Milan,Inter,0,1
+173,18,2012-01-15,Parma,Siena,3,1
+174,18,2012-01-15,Cesena,Novara,3,1
+175,18,2012-01-15,Fiorentina,Lecce,0,1
+176,18,2012-01-15,Chievo Verona,Palermo,1,0
+177,18,2012-01-15,Lazio,Atalanta,2,0
+178,18,2012-01-15,Catania,Roma,1,1
+179,18,2012-01-15,Genoa,Udinese,3,2
+180,19,2012-01-22,Inter,Lazio,2,1
+181,19,2012-01-22,Atalanta,Juventus,0,2
+182,19,2012-01-22,Bologna,Parma,0,0
+183,19,2012-01-22,Cagliari,Fiorentina,0,0
+184,19,2012-01-22,Lecce,Chievo Verona,2,2
+185,19,2012-01-22,Novara,Milan,0,3
+186,19,2012-01-22,Roma,Cesena,5,1
+187,19,2012-01-22,Palermo,Genoa,5,3
+188,19,2012-01-22,Siena,Napoli,1,1
+189,19,2012-01-22,Udinese,Catania,2,1
+190,20,2012-01-29,Cesena,Atalanta,0,1
+191,20,2012-01-29,Genoa,Napoli,3,2
+192,20,2012-01-29,Palermo,Novara,2,0
+193,20,2012-01-29,Lecce,Inter,1,0
+194,20,2012-01-29,Milan,Cagliari,3,0
+195,20,2012-01-29,Fiorentina,Siena,2,1
+196,20,2012-01-29,Chievo Verona,Lazio,0,3
+197,20,2012-01-29,Juventus,Udinese,2,1
+198,20,2012-01-29,Catania,Parma,1,1
+199,20,2012-01-29,Roma,Bologna,1,1
+200,21,2012-02-01,Cagliari,Roma,4,2
+201,21,2012-02-01,Udinese,Lecce,2,1
+202,21,2012-02-01,Bologna,Fiorentina,2,0
+203,21,2012-02-01,Novara,Chievo Verona,1,2
+204,21,2012-02-01,Lazio,Milan,2,0
+205,21,2012-02-01,Siena,Catania,0,1
+206,21,2012-02-01,Atalanta,Genoa,1,0
+207,21,2012-02-01,Inter,Palermo,4,4
+208,21,2012-02-01,Napoli,Cesena,0,0
+209,21,2012-02-01,Parma,Juventus,0,0
+210,22,2012-02-05,Novara,Cagliari,0,0
+211,22,2012-02-05,Roma,Inter,4,0
+212,22,2012-02-05,Milan,Napoli,0,0
+213,22,2012-02-05,Palermo,Atalanta,2,1
+214,22,2012-02-05,Fiorentina,Udinese,3,2
+215,22,2012-02-05,Lecce,Bologna,0,0
+216,22,2012-02-05,Juventus,Siena,0,0
+217,22,2012-02-05,Chievo Verona,Parma,1,2
+218,22,2012-02-05,Genoa,Lazio,3,2
+219,22,2012-02-05,Cesena,Catania,0,0
+220,23,2012-02-12,Napoli,Chievo Verona,2,0
+221,23,2012-02-12,Parma,Fiorentina,2,2
+222,23,2012-02-12,Catania,Genoa,4,0
+223,23,2012-02-12,Lazio,Cesena,3,2
+224,23,2012-02-12,Inter,Novara,0,1
+225,23,2012-02-12,Cagliari,Palermo,2,1
+226,23,2012-02-12,Atalanta,Lecce,0,0
+227,23,2012-02-12,Udinese,Milan,1,2
+228,23,2012-02-12,Siena,Roma,1,0
+229,23,2012-02-12,Bologna,Juventus,1,1
+230,24,2012-02-19,Roma,Parma,1,0
+231,24,2012-02-19,Lecce,Siena,4,1
+232,24,2012-02-19,Palermo,Lazio,5,1
+233,24,2012-02-19,Juventus,Catania,3,1
+234,24,2012-02-19,Udinese,Cagliari,0,0
+235,24,2012-02-19,Inter,Bologna,0,3
+236,24,2012-02-19,Novara,Atalanta,0,0
+237,24,2012-02-19,Genoa,Chievo Verona,0,1
+238,24,2012-02-19,Fiorentina,Napoli,0,3
+239,24,2012-02-19,Cesena,Milan,1,3
+240,25,2012-02-26,Genoa,Parma,2,2
+241,25,2012-02-26,Lazio,Fiorentina,1,0
+242,25,2012-02-26,Atalanta,Roma,4,1
+243,25,2012-02-26,Siena,Palermo,4,1
+244,25,2012-02-26,Napoli,Inter,1,0
+245,25,2012-02-26,Catania,Novara,3,1
+246,25,2012-02-26,Cagliari,Lecce,1,2
+247,25,2012-02-26,Chievo Verona,Cesena,1,0
+248,25,2012-02-26,Milan,Juventus,1,1
+249,25,2012-02-26,Bologna,Udinese,1,3
+250,26,2012-03-04,Roma,Lazio,1,2
+251,26,2012-03-04,Fiorentina,Cesena,2,0
+252,26,2012-03-04,Bologna,Novara,1,0
+253,26,2012-03-04,Juventus,Chievo Verona,1,1
+254,26,2012-03-04,Inter,Catania,2,2
+255,26,2012-03-04,Palermo,Milan,0,4
+256,26,2012-03-04,Siena,Cagliari,3,0
+257,26,2012-03-04,Parma,Napoli,1,2
+258,26,2012-03-04,Lecce,Genoa,2,2
+259,26,2012-03-04,Udinese,Atalanta,0,0
+260,27,2012-03-11,Chievo Verona,Inter,0,2
+261,27,2012-03-11,Novara,Udinese,1,0
+262,27,2012-03-11,Napoli,Cagliari,6,3
+263,27,2012-03-11,Palermo,Roma,0,1
+264,27,2012-03-11,Genoa,Juventus,0,0
+265,27,2012-03-11,Cesena,Siena,0,2
+266,27,2012-03-11,Milan,Lecce,2,0
+267,27,2012-03-11,Atalanta,Parma,1,1
+268,27,2012-03-11,Catania,Fiorentina,1,0
+269,27,2012-03-11,Lazio,Bologna,1,3
+270,28,2012-03-18,Lecce,Palermo,1,1
+271,28,2012-03-18,Cagliari,Cesena,3,0
+272,28,2012-03-18,Bologna,Chievo Verona,2,2
+273,28,2012-03-18,Roma,Genoa,1,0
+274,28,2012-03-18,Catania,Lazio,1,0
+275,28,2012-03-18,Parma,Milan,0,2
+276,28,2012-03-18,Udinese,Napoli,2,2
+277,28,2012-03-18,Siena,Novara,0,2
+278,28,2012-03-18,Fiorentina,Juventus,0,5
+279,28,2012-03-18,Inter,Atalanta,0,0
+280,29,2012-03-25,Atalanta,Bologna,2,0
+281,29,2012-03-25,Chievo Verona,Siena,1,1
+282,29,2012-03-25,Cesena,Parma,2,2
+283,29,2012-03-25,Lazio,Cagliari,1,0
+284,29,2012-03-25,Novara,Lecce,0,0
+285,29,2012-03-25,Genoa,Fiorentina,2,2
+286,29,2012-03-25,Juventus,Inter,2,0
+287,29,2012-03-25,Palermo,Udinese,1,1
+288,29,2012-03-25,Milan,Roma,2,1
+289,29,2012-03-25,Napoli,Catania,2,2
+290,30,2012-04-01,Catania,Milan,1,1
+291,30,2012-04-01,Siena,Udinese,1,0
+292,30,2012-04-01,Bologna,Palermo,1,3
+293,30,2012-04-01,Juventus,Napoli,3,0
+294,30,2012-04-01,Parma,Lazio,3,1
+295,30,2012-04-01,Inter,Genoa,5,4
+296,30,2012-04-01,Roma,Novara,5,2
+297,30,2012-04-01,Cagliari,Atalanta,2,0
+298,30,2012-04-01,Lecce,Cesena,0,0
+299,30,2012-04-01,Fiorentina,Chievo Verona,1,2
+300,31,2012-04-07,Atalanta,Siena,1,2
+301,31,2012-04-07,Milan,Fiorentina,1,2
+302,31,2012-04-07,Udinese,Parma,3,1
+303,31,2012-04-07,Lazio,Napoli,3,1
+304,31,2012-04-07,Palermo,Juventus,0,2
+305,31,2012-04-07,Cesena,Bologna,0,0
+306,31,2012-04-07,Lecce,Roma,4,2
+307,31,2012-04-07,Cagliari,Inter,2,2
+308,31,2012-04-07,Chievo Verona,Catania,3,2
+309,31,2012-04-07,Novara,Genoa,1,1
+310,32,2012-04-11,Genoa,Cesena,1,1
+311,32,2012-04-11,Juventus,Lazio,2,1
+312,32,2012-04-11,Napoli,Atalanta,1,3
+313,32,2012-04-11,Fiorentina,Palermo,0,0
+314,32,2012-04-11,Parma,Novara,2,0
+315,32,2012-04-11,Inter,Siena,2,1
+316,32,2012-04-11,Catania,Lecce,1,2
+317,32,2012-04-11,Chievo Verona,Milan,0,1
+318,32,2012-04-11,Roma,Udinese,3,1
+319,32,2012-04-11,Bologna,Cagliari,1,0
+320,33,2012-04-15,Palermo,Parma,1,2
+321,33,2012-04-15,Cesena,Juventus,0,1
+322,33,2012-04-15,Roma,Fiorentina,1,2
+323,33,2012-04-15,Atalanta,Chievo Verona,1,0
+324,33,2012-04-15,Milan,Genoa,1,0
+325,33,2012-04-15,Cagliari,Catania,3,0
+326,33,2012-04-15,Lecce,Napoli,0,2
+327,33,2012-04-15,Udinese,Inter,1,3
+328,33,2012-04-15,Siena,Bologna,1,1
+329,33,2012-04-15,Novara,Lazio,2,1
+330,34,2012-04-22,Lazio,Lecce,1,1
+331,34,2012-04-22,Cesena,Palermo,2,2
+332,34,2012-04-22,Napoli,Novara,2,0
+333,34,2012-04-22,Chievo Verona,Udinese,0,0
+334,34,2012-04-22,Parma,Cagliari,3,0
+335,34,2012-04-22,Milan,Bologna,1,1
+336,34,2012-04-22,Catania,Atalanta,2,0
+337,34,2012-04-22,Fiorentina,Inter,0,0
+338,34,2012-04-22,Genoa,Siena,1,4
+339,34,2012-04-22,Juventus,Roma,4,0
+340,35,2012-04-29,Roma,Napoli,2,2
+341,35,2012-04-29,Udinese,Lazio,2,0
+342,35,2012-04-29,Atalanta,Fiorentina,2,0
+343,35,2012-04-29,Lecce,Parma,1,2
+344,35,2012-04-29,Cagliari,Chievo Verona,0,0
+345,35,2012-04-29,Novara,Juventus,0,4
+346,35,2012-04-29,Bologna,Genoa,3,2
+347,35,2012-04-29,Siena,Milan,1,4
+348,35,2012-04-29,Inter,Cesena,2,1
+349,35,2012-04-29,Palermo,Catania,1,1
+350,36,2012-05-02,Milan,Atalanta,2,0
+351,36,2012-05-02,Catania,Bologna,0,1
+352,36,2012-05-02,Juventus,Lecce,1,1
+353,36,2012-05-02,Fiorentina,Novara,2,2
+354,36,2012-05-02,Napoli,Palermo,2,0
+355,36,2012-05-02,Parma,Inter,3,1
+356,36,2012-05-02,Chievo Verona,Roma,0,0
+357,36,2012-05-02,Lazio,Siena,1,1
+358,36,2012-05-02,Cesena,Udinese,0,1
+359,36,2012-05-02,Genoa,Cagliari,2,1
+360,37,2012-05-06,Siena,Parma,0,2
+361,37,2012-05-06,Palermo,Chievo Verona,4,4
+362,37,2012-05-06,Inter,Milan,4,2
+363,37,2012-05-06,Cagliari,Juventus,0,2
+364,37,2012-05-06,Roma,Catania,2,2
+365,37,2012-05-06,Udinese,Genoa,2,0
+366,37,2012-05-06,Lecce,Fiorentina,0,1
+367,37,2012-05-06,Atalanta,Lazio,0,2
+368,37,2012-05-06,Bologna,Napoli,2,0
+369,37,2012-05-06,Novara,Cesena,3,0
+370,38,2012-05-13,Catania,Udinese,0,2
+371,38,2012-05-13,Napoli,Siena,2,1
+372,38,2012-05-13,Genoa,Palermo,2,0
+373,38,2012-05-13,Cesena,Roma,2,3
+374,38,2012-05-13,Chievo Verona,Lecce,1,0
+375,38,2012-05-13,Fiorentina,Cagliari,0,0
+376,38,2012-05-13,Parma,Bologna,1,0
+377,38,2012-05-13,Juventus,Atalanta,3,1
+378,38,2012-05-13,Milan,Novara,2,1
+379,38,2012-05-13,Lazio,Inter,3,1
