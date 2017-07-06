@@ -1,11 +1,26 @@
 import urllib2
 from bs4 import BeautifulSoup
 import pandas as pd
+from logging import getLogger
 
-for year in range( 2005, 2017 ):
+
+def scrapeMatchesResults( year ):
+    '''
+    Scrape all the matches results for a given year from the web.
+
+    Params
+    ------
+    year: int
+        Target year
+
+    Results
+    -------
+    pd.DataFrame:
+        The matches results.
+    '''
     url = 'https://www.tuttomercatoweb.com/calendario_classifica/serie_a/{}-{}'.format( year, year + 1)
     page = urllib2.urlopen( url )
-    soup = BeautifulSoup( page )
+    soup = BeautifulSoup( page, 'lxml' )
     toConcat = []
     for table in soup.findAll( 'table' ):
         lines = table.findAll( 'td' )
@@ -31,6 +46,20 @@ for year in range( 2005, 2017 ):
         dfDay[ 'HOME_GOALS' ] = dfDay[ 'HOME_GOALS' ].astype( int )
         dfDay[ 'AWAY_GOALS' ] = dfDay[ 'AWAY_GOALS' ].astype( int )
         toConcat.append( dfDay )
-    df = pd.concat( toConcat ).drop_duplicates().sort_values( 'DAY' ).reset_index( drop = True )
-    df.to_csv( '/home/pierpaolo/Documents/AI/FantAI/data/raw/results_{}_{}.csv'.format( year, year + 1 ) )
-    print df.head()
+    return pd.concat( toConcat ).drop_duplicates().sort_values( 'DAY' ).reset_index( drop = True )
+
+def dumpMatchesResults():
+    '''
+    Dumps all matches results.
+    '''
+    fromYear  = 2005
+    toYear    = 2016
+    outputDir = '/home/pierpaolo/Documents/AI/FantAI/data/raw/matches/'
+    logger    = getLogger( 'Matches Scraper' )
+    for year in xrange( fromYear, toYear + 1 ):
+        logger.info( 'Scraping matches for {}-{} season'.format( year, year + 1 ) )
+        df = scrapeMatchesResults( year )
+        df.to_csv( outputDir + '{}_{}.csv'.format( year, year + 1 ) )
+    logger.info( 'Done!')
+
+dumpMatchesResults()
